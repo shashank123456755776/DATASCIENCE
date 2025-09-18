@@ -30,7 +30,7 @@ plt.figure(figsize=(10,6))
 plt.hist(data["MarksObtained"],bins=30 ,color='skyblue',edgecolor='black')
 plt.title("distribution of final exam score")
 plt.xlabel("final exam score")
-plt.ylabel("Number of stidents")
+plt.ylabel("Number of students")
 plt.grid(True)
 plt.show()
 
