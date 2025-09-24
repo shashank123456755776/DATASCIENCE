@@ -67,3 +67,10 @@ except Exception as e:
 # f1-score → Precision aur Recall ka harmonic mean (balance measure).
 
 # support → Test dataset me us class ke kitne samples the.
+
+
+# Precision = jinko tumne "Pass" bola, unme se waaqai kitne pass hue.
+
+# Recall = jo waaqai pass the, unme se tumne kitne ko pakda.
+
+# F1 Score = dono ka balance number (ek tarah ka "final performance" score).

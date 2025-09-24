@@ -1,9 +1,9 @@
 # ek classification model jiska use karte hai hmm binary output predict karne ke liye using input features
 # 
     
-    # KNN algorithm works based on neraest data exapmle mail spam or not
+# KNN algorithm works based on neraest data exapmle mail spam or not
 from sklearn.neighbors import KNeighborsClassifier
-# eucludean distance
+# Eucludean Distance
 X=[
     [180,7],
     [280,7.5],
@@ -23,4 +23,11 @@ if result==1:
 else:
     print("This is Likely to be Orange")    
     
+# result = model.predict([[weight, size]])
+# print(result)
+# To output hoga:
+
+# csharp
+# Copy code
+# [0]
     
