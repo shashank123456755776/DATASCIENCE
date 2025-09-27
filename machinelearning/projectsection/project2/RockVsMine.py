@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np 
 from sklearn.model_selection import train_test_split 
 from sklearn.linear_model import LogisticRegression
-from sklearn.metrics import accuracy_score,confusion_matrix,classification_report
+from sklearn.metrics import accuracy_score
 #data collection and data preprocessing 
 # loading dataset into pandas daataframe  HERE HEADER NONE MEans NO columns
 sonar_data=pd.read_csv('sonardata.csv',header=None)

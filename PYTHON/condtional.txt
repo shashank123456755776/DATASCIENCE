@@ -1,0 +1,3 @@
+python code ko top to bottom run karta hain ,to ager user khuch galat input dalata hai to tab bhi code run ho jata hai 
+to aise na ho code bich mai hi ruk  jaye khuch condition pe to iske liye hmm conditional operators use karte hai .
+
