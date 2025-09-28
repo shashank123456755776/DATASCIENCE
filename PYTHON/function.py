@@ -36,6 +36,16 @@ def gree(name,city):
     return f"my name is {name} I belongs to {city} "
 b=gree("shashank","delhi")
 print(b)
-# jab bhi koi function khuch return karega to use variables mai store karege hmm
+# jab bhi koi function khuch return karega to use variables mai store karege hmm 
+# function name should be meanigful 
+# length of function
+# avoid global variables 
+# local variables and global varaibale 
+# gobal -scope function ke bahar 
+# local -scope function ke under ho means accesible inside the function only 
+
+
+
+
 
 
