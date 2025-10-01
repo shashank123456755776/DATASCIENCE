@@ -33,3 +33,16 @@ def square(x):
 print(square(-5))
 print(square(6))
 #This Concepts  also used in two factors authentications
+
+# yeha wrapper function ye karta hai ki hmm kab chathe hai function return ho ya khuch certain condition baad retun ho 
+def postivenumber(fun):
+    def wrapper(x):
+        if x<0:
+            return "number is negative please enter positive number"
+        return fun(x)
+    return wrapper    
+@postivenumber
+def square(x):
+    return x*x
+num=int(input("enter number by users:"))
+print(square(num))

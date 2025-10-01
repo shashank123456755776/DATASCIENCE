@@ -1,0 +1,34 @@
+Object Oriented Programming Launguage
+It Helps Us to improve the code reusability ,structured and clean code
+Why we need OOP (in short)
+
+Organization → keeps code clean, structured.
+
+Reusability → classes can be reused anywhere.
+
+Encapsulation → data + functions together (like a capsule).
+
+Inheritance → reuse old class for new classes (e.g., Teacher inherits from Person).
+
+Polymorphism → same method name, different behaviors.
+
+Scalability → easier to maintain and extend big projects
+
+Real-life analogy:
+
+A class is like a Car blueprint.
+
+Objects are actual cars made from it (BMW, Tesla, Maruti).
+
+Without OOP, you’d write separate code for each car. With OOP, one blueprint handles all.
+
+1..classes and Objects
+2..Abstractions
+3..Inheritance
+4..Encapsulation
+5..Polymorphism
+Classes-class is blueprint or templates for craeting objects 
+Objects--as examples --map ka use kar ke ghar banya--objects are actually instance of classes 
+
+class=car blueprint
+object =actual car jo banya hai class ka use kar ke mtlb class 
