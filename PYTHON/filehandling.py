@@ -1,0 +1,20 @@
+# file read write momdified 
+# open("filename", mode)
+# file=open("files.txt","r")
+# content=file.read()
+# print(content)
+# file.close()
+# write
+file=open("files.txt","w")
+content=input("enter data")
+file.write(content)
+file.close()
+
+file1=open("files.txt","r")
+co=file1.read()
+print(co)
+fe=open("files.txt","a")
+cow=input("enter data:")
+fe1=fe.write(cow)
+print(co)
+file1.close()
