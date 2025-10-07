@@ -12,3 +12,4 @@ print(list(result))
 for  i in nums:
     lambda i:i*2
     print(i)
+

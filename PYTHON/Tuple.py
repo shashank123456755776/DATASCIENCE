@@ -1,7 +1,7 @@
 # immutable 
 # iterable 
 # hetrogenous 
-# () brackets use to craete 
+# () brackets use to create 
 # tuple data structure ka waha use karta hai jaha data change na karna ho 
 a=(1,2,3,4,5)
 print(type(a))

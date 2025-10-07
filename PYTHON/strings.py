@@ -37,7 +37,7 @@ print(text+" "+"hello world")
 # same data types concatination hota hai ager kiya to  type error aayega 
 # print(text+3)
 
-# checkinh membership 
+# check In membership 
 print("hello" in text)
 print("hello" not in text) # ye output ko reverse ka dega 
 
@@ -72,3 +72,4 @@ print(text.endswith('i'))
 print(text.isalpha()) # ye check karega ki string mai sirf alphabets hai ya nahi 
 print(text.isdigit()) # ye check karega ki string mai sirf digits hai ya nahi 
 print(text.isalnum()) # ye check karega ki string mai sirf alphabets and digits hai ya nahi 
+

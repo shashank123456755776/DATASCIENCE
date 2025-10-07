@@ -40,4 +40,8 @@ for i in number(5):
 
 # decorators and generators difference 
 # decorators ka use hmm function mai extra functionality add karne ke liye karte hai with affect original function like authentication,two factor authentications 
-# jaha genertaors ka use karte hai  bare data pe kaam karne mai such that pure iteratots pure memmory na le ekhi  value excute ho
+# jaha genertaors ka use karte hai  bare data pe kaam karne mai such that pure iteratots pure memmory na le ekhi  value excute ho 
+
+
+
+    

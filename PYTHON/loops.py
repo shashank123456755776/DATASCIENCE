@@ -47,3 +47,5 @@ for i in range(2,11):
         print("even",i) 
     else:
         print("odd",i)    
+
+    

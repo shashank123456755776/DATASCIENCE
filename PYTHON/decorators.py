@@ -46,3 +46,9 @@ def square(x):
     return x*x
 num=int(input("enter number by users:"))
 print(square(num))
+
+
+
+
+    
+    
