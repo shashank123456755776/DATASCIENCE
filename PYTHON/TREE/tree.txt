@@ -1,0 +1,6 @@
+tree-edge,
+path(one-->another node),
+node,
+leaf_node(no child),
+root--Top of Tree
+InternalNode--At least One child
