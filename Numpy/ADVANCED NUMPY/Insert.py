@@ -7,3 +7,5 @@ print(new_arr)
 arr_2d=np.array([[1,2],[4,5]])
 new_arr1=np.insert(arr_2d,1,[6,7],axis=0)
 print(new_arr1)
+
+
