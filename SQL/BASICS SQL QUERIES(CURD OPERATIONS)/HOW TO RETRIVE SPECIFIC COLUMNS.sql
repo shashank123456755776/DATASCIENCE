@@ -1,0 +1,10 @@
+-- SELECT COLUMN1,COLUMN2,.....FROM  students 
+SELECT AGE ,NAME FROM students;
+
+-- HOW TO REMOVE THE DUPLICATE DATA FROM COLUMNS IN TABLES 
+-- SELECT DISTINCT column_name
+-- FROM table_name;
+SELECT DISTINCT Name
+FROM students;
+
+SELECT * FROM students
