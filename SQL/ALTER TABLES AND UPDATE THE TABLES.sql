@@ -24,11 +24,11 @@ Where id =3;
 ALTER TABLE students  MODIFY Age SMALLINT;
 
 #how to Rename the any columns  name  
-ALTER TABLE students RENAME  COLUMN EMAIL  To StudentEmail;
+ALTER TABLE students RENAME  COLUMN EMAIL To StudentEmail;
 #how to delete the tables 
 # DROP TABLES students(name of the table)
 # how to reset the tables--
 #TRUNCATE TABLE  students   
-SELECT * FROM students 
+SELECT * FROM students
 
  

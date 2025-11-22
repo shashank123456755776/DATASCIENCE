@@ -8,3 +8,4 @@ SELECT DISTINCT Name
 FROM students;
 
 SELECT * FROM students
+
