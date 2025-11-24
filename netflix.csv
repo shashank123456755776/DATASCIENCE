@@ -1,0 +1,2001 @@
+show_id,type,title,director
+s1,Movie,Sample_Title_1806,Director_1
+s2,TV Show,Sample_Title_2576,Director_2
+s3,Movie,Sample_Title_556,Director_3
+s4,TV Show,Sample_Title_150,Director_4
+s5,Movie,Sample_Title_1337,Director_5
+s6,TV Show,Sample_Title_73,Director_6
+s7,TV Show,Sample_Title_312,Director_7
+s8,Movie,Sample_Title_2980,Director_8
+s9,Movie,Sample_Title_328,Director_9
+s10,TV Show,Sample_Title_2033,Director_10
+s11,TV Show,Sample_Title_2757,Director_11
+s12,TV Show,Sample_Title_1280,Director_12
+s13,TV Show,Sample_Title_213,Director_13
+s14,TV Show,Sample_Title_2514,Director_14
+s15,Movie,Sample_Title_2974,Director_15
+s16,Movie,Sample_Title_618,Director_16
+s17,TV Show,Sample_Title_2644,Director_17
+s18,TV Show,Sample_Title_2945,Director_18
+s19,TV Show,Sample_Title_290,Director_19
+s20,TV Show,Sample_Title_2677,Director_20
+s21,Movie,Sample_Title_481,Director_21
+s22,TV Show,Sample_Title_1846,Director_22
+s23,Movie,Sample_Title_629,Director_23
+s24,Movie,Sample_Title_2243,Director_24
+s25,Movie,Sample_Title_2192,Director_25
+s26,Movie,Sample_Title_511,Director_26
+s27,TV Show,Sample_Title_1580,Director_27
+s28,TV Show,Sample_Title_2912,Director_28
+s29,TV Show,Sample_Title_1229,Director_29
+s30,TV Show,Sample_Title_1024,Director_30
+s31,TV Show,Sample_Title_927,Director_31
+s32,TV Show,Sample_Title_1600,Director_32
+s33,Movie,Sample_Title_187,Director_33
+s34,Movie,Sample_Title_1257,Director_34
+s35,TV Show,Sample_Title_2641,Director_35
+s36,TV Show,Sample_Title_1904,Director_36
+s37,TV Show,Sample_Title_2807,Director_37
+s38,Movie,Sample_Title_996,Director_38
+s39,Movie,Sample_Title_2823,Director_39
+s40,TV Show,Sample_Title_1201,Director_40
+s41,Movie,Sample_Title_2693,Director_41
+s42,TV Show,Sample_Title_1452,Director_42
+s43,Movie,Sample_Title_2457,Director_43
+s44,TV Show,Sample_Title_612,Director_44
+s45,TV Show,Sample_Title_1757,Director_45
+s46,Movie,Sample_Title_2910,Director_46
+s47,Movie,Sample_Title_2250,Director_47
+s48,Movie,Sample_Title_2717,Director_48
+s49,Movie,Sample_Title_2642,Director_49
+s50,TV Show,Sample_Title_599,Director_50
+s51,TV Show,Sample_Title_741,Director_51
+s52,TV Show,Sample_Title_2867,Director_52
+s53,TV Show,Sample_Title_1098,Director_53
+s54,Movie,Sample_Title_718,Director_54
+s55,Movie,Sample_Title_1595,Director_55
+s56,Movie,Sample_Title_684,Director_56
+s57,Movie,Sample_Title_2622,Director_57
+s58,Movie,Sample_Title_192,Director_58
+s59,Movie,Sample_Title_529,Director_59
+s60,Movie,Sample_Title_2170,Director_60
+s61,TV Show,Sample_Title_1842,Director_61
+s62,TV Show,Sample_Title_2286,Director_62
+s63,TV Show,Sample_Title_851,Director_63
+s64,Movie,Sample_Title_31,Director_64
+s65,Movie,Sample_Title_2361,Director_65
+s66,Movie,Sample_Title_808,Director_66
+s67,Movie,Sample_Title_1633,Director_67
+s68,Movie,Sample_Title_1876,Director_68
+s69,Movie,Sample_Title_382,Director_69
+s70,TV Show,Sample_Title_707,Director_70
+s71,TV Show,Sample_Title_2538,Director_71
+s72,TV Show,Sample_Title_2689,Director_72
+s73,Movie,Sample_Title_1345,Director_73
+s74,TV Show,Sample_Title_1833,Director_74
+s75,TV Show,Sample_Title_2063,Director_75
+s76,Movie,Sample_Title_2177,Director_76
+s77,Movie,Sample_Title_1605,Director_77
+s78,Movie,Sample_Title_301,Director_78
+s79,TV Show,Sample_Title_2151,Director_79
+s80,TV Show,Sample_Title_1785,Director_80
+s81,Movie,Sample_Title_493,Director_81
+s82,Movie,Sample_Title_2736,Director_82
+s83,TV Show,Sample_Title_1850,Director_83
+s84,TV Show,Sample_Title_2556,Director_84
+s85,Movie,Sample_Title_2362,Director_85
+s86,TV Show,Sample_Title_734,Director_86
+s87,TV Show,Sample_Title_1295,Director_87
+s88,TV Show,Sample_Title_2417,Director_88
+s89,Movie,Sample_Title_85,Director_89
+s90,Movie,Sample_Title_2262,Director_90
+s91,TV Show,Sample_Title_44,Director_91
+s92,Movie,Sample_Title_2300,Director_92
+s93,TV Show,Sample_Title_1999,Director_93
+s94,Movie,Sample_Title_2270,Director_94
+s95,TV Show,Sample_Title_1888,Director_95
+s96,Movie,Sample_Title_1457,Director_96
+s97,TV Show,Sample_Title_1440,Director_97
+s98,Movie,Sample_Title_1333,Director_98
+s99,Movie,Sample_Title_1808,Director_99
+s100,TV Show,Sample_Title_1080,Director_100
+s101,Movie,Sample_Title_2991,Director_101
+s102,TV Show,Sample_Title_820,Director_102
+s103,TV Show,Sample_Title_333,Director_103
+s104,TV Show,Sample_Title_1093,Director_104
+s105,TV Show,Sample_Title_333,Director_105
+s106,Movie,Sample_Title_2414,Director_106
+s107,TV Show,Sample_Title_2225,Director_107
+s108,Movie,Sample_Title_738,Director_108
+s109,TV Show,Sample_Title_2284,Director_109
+s110,TV Show,Sample_Title_2275,Director_110
+s111,TV Show,Sample_Title_1089,Director_111
+s112,TV Show,Sample_Title_2035,Director_112
+s113,TV Show,Sample_Title_2448,Director_113
+s114,TV Show,Sample_Title_2719,Director_114
+s115,TV Show,Sample_Title_1274,Director_115
+s116,Movie,Sample_Title_2376,Director_116
+s117,TV Show,Sample_Title_1830,Director_117
+s118,Movie,Sample_Title_710,Director_118
+s119,Movie,Sample_Title_2889,Director_119
+s120,Movie,Sample_Title_576,Director_120
+s121,TV Show,Sample_Title_1911,Director_121
+s122,Movie,Sample_Title_198,Director_122
+s123,TV Show,Sample_Title_2572,Director_123
+s124,Movie,Sample_Title_1676,Director_124
+s125,Movie,Sample_Title_631,Director_125
+s126,TV Show,Sample_Title_1308,Director_126
+s127,Movie,Sample_Title_414,Director_127
+s128,TV Show,Sample_Title_644,Director_128
+s129,Movie,Sample_Title_617,Director_129
+s130,TV Show,Sample_Title_361,Director_130
+s131,TV Show,Sample_Title_2169,Director_131
+s132,Movie,Sample_Title_209,Director_132
+s133,Movie,Sample_Title_1814,Director_133
+s134,Movie,Sample_Title_1874,Director_134
+s135,TV Show,Sample_Title_27,Director_135
+s136,Movie,Sample_Title_93,Director_136
+s137,Movie,Sample_Title_2484,Director_137
+s138,Movie,Sample_Title_374,Director_138
+s139,TV Show,Sample_Title_87,Director_139
+s140,TV Show,Sample_Title_451,Director_140
+s141,TV Show,Sample_Title_2666,Director_141
+s142,Movie,Sample_Title_677,Director_142
+s143,TV Show,Sample_Title_256,Director_143
+s144,TV Show,Sample_Title_2493,Director_144
+s145,Movie,Sample_Title_1526,Director_145
+s146,TV Show,Sample_Title_709,Director_146
+s147,TV Show,Sample_Title_2325,Director_147
+s148,Movie,Sample_Title_2458,Director_148
+s149,TV Show,Sample_Title_2513,Director_149
+s150,Movie,Sample_Title_1011,Director_150
+s151,Movie,Sample_Title_1520,Director_151
+s152,Movie,Sample_Title_2754,Director_152
+s153,TV Show,Sample_Title_2025,Director_153
+s154,Movie,Sample_Title_125,Director_154
+s155,TV Show,Sample_Title_2619,Director_155
+s156,Movie,Sample_Title_256,Director_156
+s157,Movie,Sample_Title_2314,Director_157
+s158,TV Show,Sample_Title_2506,Director_158
+s159,Movie,Sample_Title_2915,Director_159
+s160,TV Show,Sample_Title_1979,Director_160
+s161,Movie,Sample_Title_2409,Director_161
+s162,Movie,Sample_Title_1868,Director_162
+s163,Movie,Sample_Title_2574,Director_163
+s164,Movie,Sample_Title_2317,Director_164
+s165,TV Show,Sample_Title_1075,Director_165
+s166,Movie,Sample_Title_577,Director_166
+s167,Movie,Sample_Title_559,Director_167
+s168,Movie,Sample_Title_1012,Director_168
+s169,Movie,Sample_Title_469,Director_169
+s170,Movie,Sample_Title_959,Director_170
+s171,TV Show,Sample_Title_78,Director_171
+s172,Movie,Sample_Title_217,Director_172
+s173,TV Show,Sample_Title_61,Director_173
+s174,TV Show,Sample_Title_1412,Director_174
+s175,TV Show,Sample_Title_2224,Director_175
+s176,TV Show,Sample_Title_167,Director_176
+s177,Movie,Sample_Title_2074,Director_177
+s178,TV Show,Sample_Title_2796,Director_178
+s179,TV Show,Sample_Title_568,Director_179
+s180,TV Show,Sample_Title_1739,Director_180
+s181,TV Show,Sample_Title_1706,Director_181
+s182,Movie,Sample_Title_9,Director_182
+s183,Movie,Sample_Title_2394,Director_183
+s184,TV Show,Sample_Title_653,Director_184
+s185,Movie,Sample_Title_1272,Director_185
+s186,Movie,Sample_Title_1319,Director_186
+s187,Movie,Sample_Title_2766,Director_187
+s188,TV Show,Sample_Title_1427,Director_188
+s189,Movie,Sample_Title_1932,Director_189
+s190,TV Show,Sample_Title_2873,Director_190
+s191,TV Show,Sample_Title_2814,Director_191
+s192,TV Show,Sample_Title_2685,Director_192
+s193,TV Show,Sample_Title_767,Director_193
+s194,TV Show,Sample_Title_2626,Director_194
+s195,Movie,Sample_Title_2276,Director_195
+s196,TV Show,Sample_Title_1755,Director_196
+s197,Movie,Sample_Title_289,Director_197
+s198,Movie,Sample_Title_2411,Director_198
+s199,TV Show,Sample_Title_1476,Director_199
+s200,TV Show,Sample_Title_587,Director_200
+s201,Movie,Sample_Title_2293,Director_201
+s202,TV Show,Sample_Title_1456,Director_202
+s203,TV Show,Sample_Title_2838,Director_203
+s204,Movie,Sample_Title_871,Director_204
+s205,Movie,Sample_Title_2968,Director_205
+s206,TV Show,Sample_Title_2950,Director_206
+s207,TV Show,Sample_Title_2614,Director_207
+s208,Movie,Sample_Title_209,Director_208
+s209,TV Show,Sample_Title_1512,Director_209
+s210,Movie,Sample_Title_399,Director_210
+s211,Movie,Sample_Title_35,Director_211
+s212,Movie,Sample_Title_683,Director_212
+s213,Movie,Sample_Title_701,Director_213
+s214,TV Show,Sample_Title_617,Director_214
+s215,Movie,Sample_Title_2130,Director_215
+s216,TV Show,Sample_Title_1456,Director_216
+s217,Movie,Sample_Title_2838,Director_217
+s218,Movie,Sample_Title_1848,Director_218
+s219,TV Show,Sample_Title_726,Director_219
+s220,TV Show,Sample_Title_2612,Director_220
+s221,Movie,Sample_Title_109,Director_221
+s222,Movie,Sample_Title_689,Director_222
+s223,TV Show,Sample_Title_2937,Director_223
+s224,TV Show,Sample_Title_778,Director_224
+s225,Movie,Sample_Title_358,Director_225
+s226,Movie,Sample_Title_1686,Director_226
+s227,TV Show,Sample_Title_759,Director_227
+s228,TV Show,Sample_Title_2179,Director_228
+s229,Movie,Sample_Title_785,Director_229
+s230,TV Show,Sample_Title_2671,Director_230
+s231,TV Show,Sample_Title_243,Director_231
+s232,TV Show,Sample_Title_361,Director_232
+s233,TV Show,Sample_Title_1451,Director_233
+s234,Movie,Sample_Title_2710,Director_234
+s235,TV Show,Sample_Title_102,Director_235
+s236,TV Show,Sample_Title_2559,Director_236
+s237,TV Show,Sample_Title_738,Director_237
+s238,TV Show,Sample_Title_2163,Director_238
+s239,TV Show,Sample_Title_270,Director_239
+s240,Movie,Sample_Title_2855,Director_240
+s241,Movie,Sample_Title_1086,Director_241
+s242,Movie,Sample_Title_1230,Director_242
+s243,Movie,Sample_Title_994,Director_243
+s244,Movie,Sample_Title_2437,Director_244
+s245,Movie,Sample_Title_2777,Director_245
+s246,Movie,Sample_Title_1176,Director_246
+s247,Movie,Sample_Title_915,Director_247
+s248,TV Show,Sample_Title_296,Director_248
+s249,Movie,Sample_Title_1502,Director_249
+s250,Movie,Sample_Title_2152,Director_250
+s251,TV Show,Sample_Title_1918,Director_251
+s252,TV Show,Sample_Title_713,Director_252
+s253,TV Show,Sample_Title_1744,Director_253
+s254,TV Show,Sample_Title_2907,Director_254
+s255,TV Show,Sample_Title_2078,Director_255
+s256,Movie,Sample_Title_2200,Director_256
+s257,TV Show,Sample_Title_2994,Director_257
+s258,Movie,Sample_Title_1497,Director_258
+s259,TV Show,Sample_Title_875,Director_259
+s260,Movie,Sample_Title_316,Director_260
+s261,Movie,Sample_Title_113,Director_261
+s262,Movie,Sample_Title_2532,Director_262
+s263,TV Show,Sample_Title_1057,Director_263
+s264,TV Show,Sample_Title_2711,Director_264
+s265,Movie,Sample_Title_1382,Director_265
+s266,TV Show,Sample_Title_2258,Director_266
+s267,Movie,Sample_Title_958,Director_267
+s268,TV Show,Sample_Title_1128,Director_268
+s269,Movie,Sample_Title_2775,Director_269
+s270,TV Show,Sample_Title_699,Director_270
+s271,TV Show,Sample_Title_1190,Director_271
+s272,TV Show,Sample_Title_2267,Director_272
+s273,Movie,Sample_Title_2523,Director_273
+s274,TV Show,Sample_Title_13,Director_274
+s275,TV Show,Sample_Title_2465,Director_275
+s276,Movie,Sample_Title_2988,Director_276
+s277,Movie,Sample_Title_380,Director_277
+s278,Movie,Sample_Title_2391,Director_278
+s279,Movie,Sample_Title_2913,Director_279
+s280,Movie,Sample_Title_2029,Director_280
+s281,Movie,Sample_Title_970,Director_281
+s282,TV Show,Sample_Title_107,Director_282
+s283,TV Show,Sample_Title_2795,Director_283
+s284,Movie,Sample_Title_1232,Director_284
+s285,TV Show,Sample_Title_1511,Director_285
+s286,Movie,Sample_Title_1475,Director_286
+s287,TV Show,Sample_Title_861,Director_287
+s288,Movie,Sample_Title_395,Director_288
+s289,Movie,Sample_Title_490,Director_289
+s290,Movie,Sample_Title_753,Director_290
+s291,TV Show,Sample_Title_46,Director_291
+s292,TV Show,Sample_Title_1453,Director_292
+s293,Movie,Sample_Title_162,Director_293
+s294,TV Show,Sample_Title_906,Director_294
+s295,Movie,Sample_Title_2189,Director_295
+s296,TV Show,Sample_Title_1550,Director_296
+s297,Movie,Sample_Title_1154,Director_297
+s298,TV Show,Sample_Title_2871,Director_298
+s299,Movie,Sample_Title_1149,Director_299
+s300,TV Show,Sample_Title_1599,Director_300
+s301,TV Show,Sample_Title_1059,Director_301
+s302,Movie,Sample_Title_862,Director_302
+s303,TV Show,Sample_Title_903,Director_303
+s304,Movie,Sample_Title_1839,Director_304
+s305,Movie,Sample_Title_2879,Director_305
+s306,TV Show,Sample_Title_795,Director_306
+s307,Movie,Sample_Title_235,Director_307
+s308,Movie,Sample_Title_2499,Director_308
+s309,TV Show,Sample_Title_2341,Director_309
+s310,Movie,Sample_Title_1062,Director_310
+s311,Movie,Sample_Title_2765,Director_311
+s312,TV Show,Sample_Title_1086,Director_312
+s313,TV Show,Sample_Title_16,Director_313
+s314,Movie,Sample_Title_1631,Director_314
+s315,Movie,Sample_Title_1639,Director_315
+s316,Movie,Sample_Title_1852,Director_316
+s317,TV Show,Sample_Title_191,Director_317
+s318,Movie,Sample_Title_827,Director_318
+s319,Movie,Sample_Title_38,Director_319
+s320,Movie,Sample_Title_286,Director_320
+s321,Movie,Sample_Title_4,Director_321
+s322,TV Show,Sample_Title_2683,Director_322
+s323,Movie,Sample_Title_1734,Director_323
+s324,TV Show,Sample_Title_1542,Director_324
+s325,Movie,Sample_Title_1760,Director_325
+s326,Movie,Sample_Title_2222,Director_326
+s327,Movie,Sample_Title_476,Director_327
+s328,TV Show,Sample_Title_1708,Director_328
+s329,TV Show,Sample_Title_2809,Director_329
+s330,Movie,Sample_Title_2129,Director_330
+s331,Movie,Sample_Title_1709,Director_331
+s332,Movie,Sample_Title_1831,Director_332
+s333,TV Show,Sample_Title_911,Director_333
+s334,Movie,Sample_Title_1699,Director_334
+s335,Movie,Sample_Title_1153,Director_335
+s336,Movie,Sample_Title_1833,Director_336
+s337,TV Show,Sample_Title_1480,Director_337
+s338,TV Show,Sample_Title_732,Director_338
+s339,Movie,Sample_Title_2333,Director_339
+s340,TV Show,Sample_Title_2973,Director_340
+s341,Movie,Sample_Title_408,Director_341
+s342,TV Show,Sample_Title_463,Director_342
+s343,Movie,Sample_Title_2699,Director_343
+s344,Movie,Sample_Title_365,Director_344
+s345,TV Show,Sample_Title_957,Director_345
+s346,TV Show,Sample_Title_2053,Director_346
+s347,Movie,Sample_Title_2121,Director_347
+s348,TV Show,Sample_Title_2700,Director_348
+s349,TV Show,Sample_Title_180,Director_349
+s350,Movie,Sample_Title_1337,Director_350
+s351,Movie,Sample_Title_1092,Director_351
+s352,Movie,Sample_Title_2134,Director_352
+s353,Movie,Sample_Title_870,Director_353
+s354,Movie,Sample_Title_2550,Director_354
+s355,Movie,Sample_Title_2264,Director_355
+s356,TV Show,Sample_Title_2498,Director_356
+s357,Movie,Sample_Title_1589,Director_357
+s358,Movie,Sample_Title_60,Director_358
+s359,Movie,Sample_Title_819,Director_359
+s360,Movie,Sample_Title_1387,Director_360
+s361,TV Show,Sample_Title_2958,Director_361
+s362,TV Show,Sample_Title_85,Director_362
+s363,TV Show,Sample_Title_1486,Director_363
+s364,TV Show,Sample_Title_1382,Director_364
+s365,Movie,Sample_Title_711,Director_365
+s366,Movie,Sample_Title_2647,Director_366
+s367,Movie,Sample_Title_649,Director_367
+s368,TV Show,Sample_Title_980,Director_368
+s369,Movie,Sample_Title_2186,Director_369
+s370,TV Show,Sample_Title_1925,Director_370
+s371,TV Show,Sample_Title_519,Director_371
+s372,TV Show,Sample_Title_1130,Director_372
+s373,Movie,Sample_Title_704,Director_373
+s374,Movie,Sample_Title_2582,Director_374
+s375,Movie,Sample_Title_736,Director_375
+s376,Movie,Sample_Title_1848,Director_376
+s377,Movie,Sample_Title_2330,Director_377
+s378,Movie,Sample_Title_1478,Director_378
+s379,Movie,Sample_Title_2793,Director_379
+s380,TV Show,Sample_Title_2734,Director_380
+s381,TV Show,Sample_Title_1100,Director_381
+s382,Movie,Sample_Title_552,Director_382
+s383,TV Show,Sample_Title_1038,Director_383
+s384,TV Show,Sample_Title_2584,Director_384
+s385,TV Show,Sample_Title_2926,Director_385
+s386,Movie,Sample_Title_1381,Director_386
+s387,TV Show,Sample_Title_233,Director_387
+s388,TV Show,Sample_Title_2009,Director_388
+s389,Movie,Sample_Title_2332,Director_389
+s390,TV Show,Sample_Title_582,Director_390
+s391,Movie,Sample_Title_322,Director_391
+s392,TV Show,Sample_Title_2231,Director_392
+s393,Movie,Sample_Title_1742,Director_393
+s394,Movie,Sample_Title_352,Director_394
+s395,TV Show,Sample_Title_107,Director_395
+s396,Movie,Sample_Title_2942,Director_396
+s397,Movie,Sample_Title_193,Director_397
+s398,TV Show,Sample_Title_1820,Director_398
+s399,TV Show,Sample_Title_1597,Director_399
+s400,TV Show,Sample_Title_1544,Director_400
+s401,TV Show,Sample_Title_2985,Director_401
+s402,Movie,Sample_Title_1276,Director_402
+s403,Movie,Sample_Title_1386,Director_403
+s404,TV Show,Sample_Title_448,Director_404
+s405,TV Show,Sample_Title_595,Director_405
+s406,Movie,Sample_Title_2274,Director_406
+s407,Movie,Sample_Title_111,Director_407
+s408,TV Show,Sample_Title_593,Director_408
+s409,Movie,Sample_Title_1318,Director_409
+s410,Movie,Sample_Title_2560,Director_410
+s411,Movie,Sample_Title_2340,Director_411
+s412,Movie,Sample_Title_851,Director_412
+s413,Movie,Sample_Title_1527,Director_413
+s414,Movie,Sample_Title_2716,Director_414
+s415,Movie,Sample_Title_525,Director_415
+s416,TV Show,Sample_Title_635,Director_416
+s417,Movie,Sample_Title_543,Director_417
+s418,TV Show,Sample_Title_1036,Director_418
+s419,TV Show,Sample_Title_1407,Director_419
+s420,TV Show,Sample_Title_2846,Director_420
+s421,Movie,Sample_Title_1924,Director_421
+s422,Movie,Sample_Title_477,Director_422
+s423,Movie,Sample_Title_678,Director_423
+s424,Movie,Sample_Title_1758,Director_424
+s425,TV Show,Sample_Title_1334,Director_425
+s426,TV Show,Sample_Title_1396,Director_426
+s427,Movie,Sample_Title_2545,Director_427
+s428,TV Show,Sample_Title_1625,Director_428
+s429,TV Show,Sample_Title_651,Director_429
+s430,Movie,Sample_Title_2451,Director_430
+s431,Movie,Sample_Title_1462,Director_431
+s432,TV Show,Sample_Title_888,Director_432
+s433,Movie,Sample_Title_675,Director_433
+s434,Movie,Sample_Title_1853,Director_434
+s435,Movie,Sample_Title_1689,Director_435
+s436,Movie,Sample_Title_2207,Director_436
+s437,TV Show,Sample_Title_1565,Director_437
+s438,TV Show,Sample_Title_368,Director_438
+s439,TV Show,Sample_Title_2306,Director_439
+s440,Movie,Sample_Title_2454,Director_440
+s441,TV Show,Sample_Title_1334,Director_441
+s442,TV Show,Sample_Title_131,Director_442
+s443,Movie,Sample_Title_62,Director_443
+s444,Movie,Sample_Title_2186,Director_444
+s445,TV Show,Sample_Title_2074,Director_445
+s446,TV Show,Sample_Title_209,Director_446
+s447,TV Show,Sample_Title_381,Director_447
+s448,Movie,Sample_Title_1857,Director_448
+s449,Movie,Sample_Title_1534,Director_449
+s450,TV Show,Sample_Title_432,Director_450
+s451,Movie,Sample_Title_1827,Director_451
+s452,Movie,Sample_Title_977,Director_452
+s453,Movie,Sample_Title_2437,Director_453
+s454,TV Show,Sample_Title_1302,Director_454
+s455,Movie,Sample_Title_1553,Director_455
+s456,TV Show,Sample_Title_1642,Director_456
+s457,TV Show,Sample_Title_2944,Director_457
+s458,TV Show,Sample_Title_2186,Director_458
+s459,TV Show,Sample_Title_944,Director_459
+s460,TV Show,Sample_Title_1309,Director_460
+s461,TV Show,Sample_Title_2117,Director_461
+s462,TV Show,Sample_Title_886,Director_462
+s463,TV Show,Sample_Title_1390,Director_463
+s464,TV Show,Sample_Title_2595,Director_464
+s465,TV Show,Sample_Title_243,Director_465
+s466,TV Show,Sample_Title_736,Director_466
+s467,Movie,Sample_Title_1149,Director_467
+s468,TV Show,Sample_Title_2615,Director_468
+s469,Movie,Sample_Title_1792,Director_469
+s470,Movie,Sample_Title_2714,Director_470
+s471,Movie,Sample_Title_2125,Director_471
+s472,TV Show,Sample_Title_1823,Director_472
+s473,Movie,Sample_Title_2894,Director_473
+s474,TV Show,Sample_Title_1510,Director_474
+s475,Movie,Sample_Title_2987,Director_475
+s476,TV Show,Sample_Title_2148,Director_476
+s477,TV Show,Sample_Title_1924,Director_477
+s478,TV Show,Sample_Title_815,Director_478
+s479,TV Show,Sample_Title_785,Director_479
+s480,Movie,Sample_Title_768,Director_480
+s481,Movie,Sample_Title_2362,Director_481
+s482,TV Show,Sample_Title_1196,Director_482
+s483,Movie,Sample_Title_2443,Director_483
+s484,Movie,Sample_Title_2155,Director_484
+s485,Movie,Sample_Title_2354,Director_485
+s486,TV Show,Sample_Title_82,Director_486
+s487,Movie,Sample_Title_947,Director_487
+s488,TV Show,Sample_Title_132,Director_488
+s489,TV Show,Sample_Title_1600,Director_489
+s490,Movie,Sample_Title_173,Director_490
+s491,Movie,Sample_Title_2291,Director_491
+s492,Movie,Sample_Title_1780,Director_492
+s493,Movie,Sample_Title_2208,Director_493
+s494,TV Show,Sample_Title_1698,Director_494
+s495,Movie,Sample_Title_1825,Director_495
+s496,Movie,Sample_Title_786,Director_496
+s497,TV Show,Sample_Title_1958,Director_497
+s498,Movie,Sample_Title_673,Director_498
+s499,TV Show,Sample_Title_2163,Director_499
+s500,Movie,Sample_Title_2922,Director_500
+s501,TV Show,Sample_Title_1028,Director_501
+s502,TV Show,Sample_Title_1843,Director_502
+s503,TV Show,Sample_Title_1493,Director_503
+s504,TV Show,Sample_Title_2222,Director_504
+s505,TV Show,Sample_Title_1192,Director_505
+s506,Movie,Sample_Title_1554,Director_506
+s507,Movie,Sample_Title_2920,Director_507
+s508,TV Show,Sample_Title_1511,Director_508
+s509,TV Show,Sample_Title_2188,Director_509
+s510,Movie,Sample_Title_2882,Director_510
+s511,Movie,Sample_Title_2374,Director_511
+s512,Movie,Sample_Title_933,Director_512
+s513,Movie,Sample_Title_1898,Director_513
+s514,TV Show,Sample_Title_2237,Director_514
+s515,Movie,Sample_Title_1664,Director_515
+s516,Movie,Sample_Title_472,Director_516
+s517,Movie,Sample_Title_423,Director_517
+s518,Movie,Sample_Title_2234,Director_518
+s519,Movie,Sample_Title_1680,Director_519
+s520,TV Show,Sample_Title_2887,Director_520
+s521,Movie,Sample_Title_2569,Director_521
+s522,TV Show,Sample_Title_1750,Director_522
+s523,TV Show,Sample_Title_2343,Director_523
+s524,TV Show,Sample_Title_1627,Director_524
+s525,TV Show,Sample_Title_893,Director_525
+s526,TV Show,Sample_Title_373,Director_526
+s527,TV Show,Sample_Title_1299,Director_527
+s528,TV Show,Sample_Title_176,Director_528
+s529,Movie,Sample_Title_1781,Director_529
+s530,TV Show,Sample_Title_2554,Director_530
+s531,Movie,Sample_Title_1376,Director_531
+s532,TV Show,Sample_Title_1039,Director_532
+s533,Movie,Sample_Title_922,Director_533
+s534,TV Show,Sample_Title_1006,Director_534
+s535,Movie,Sample_Title_2467,Director_535
+s536,TV Show,Sample_Title_659,Director_536
+s537,TV Show,Sample_Title_2324,Director_537
+s538,Movie,Sample_Title_1522,Director_538
+s539,Movie,Sample_Title_926,Director_539
+s540,Movie,Sample_Title_1572,Director_540
+s541,Movie,Sample_Title_1601,Director_541
+s542,Movie,Sample_Title_2954,Director_542
+s543,TV Show,Sample_Title_190,Director_543
+s544,Movie,Sample_Title_466,Director_544
+s545,Movie,Sample_Title_240,Director_545
+s546,TV Show,Sample_Title_2846,Director_546
+s547,Movie,Sample_Title_21,Director_547
+s548,TV Show,Sample_Title_946,Director_548
+s549,TV Show,Sample_Title_2857,Director_549
+s550,Movie,Sample_Title_2672,Director_550
+s551,Movie,Sample_Title_576,Director_551
+s552,Movie,Sample_Title_1342,Director_552
+s553,Movie,Sample_Title_480,Director_553
+s554,TV Show,Sample_Title_1122,Director_554
+s555,TV Show,Sample_Title_1579,Director_555
+s556,Movie,Sample_Title_1557,Director_556
+s557,TV Show,Sample_Title_2275,Director_557
+s558,Movie,Sample_Title_2842,Director_558
+s559,TV Show,Sample_Title_2593,Director_559
+s560,Movie,Sample_Title_1374,Director_560
+s561,TV Show,Sample_Title_990,Director_561
+s562,Movie,Sample_Title_714,Director_562
+s563,Movie,Sample_Title_1726,Director_563
+s564,TV Show,Sample_Title_2044,Director_564
+s565,TV Show,Sample_Title_807,Director_565
+s566,TV Show,Sample_Title_894,Director_566
+s567,TV Show,Sample_Title_2218,Director_567
+s568,Movie,Sample_Title_1189,Director_568
+s569,Movie,Sample_Title_2840,Director_569
+s570,Movie,Sample_Title_1210,Director_570
+s571,TV Show,Sample_Title_349,Director_571
+s572,TV Show,Sample_Title_1287,Director_572
+s573,Movie,Sample_Title_2792,Director_573
+s574,Movie,Sample_Title_1586,Director_574
+s575,TV Show,Sample_Title_1447,Director_575
+s576,TV Show,Sample_Title_579,Director_576
+s577,Movie,Sample_Title_1187,Director_577
+s578,TV Show,Sample_Title_906,Director_578
+s579,Movie,Sample_Title_1615,Director_579
+s580,Movie,Sample_Title_707,Director_580
+s581,Movie,Sample_Title_2590,Director_581
+s582,Movie,Sample_Title_128,Director_582
+s583,TV Show,Sample_Title_561,Director_583
+s584,TV Show,Sample_Title_1374,Director_584
+s585,TV Show,Sample_Title_1523,Director_585
+s586,Movie,Sample_Title_2279,Director_586
+s587,Movie,Sample_Title_2241,Director_587
+s588,TV Show,Sample_Title_2205,Director_588
+s589,Movie,Sample_Title_131,Director_589
+s590,TV Show,Sample_Title_2704,Director_590
+s591,TV Show,Sample_Title_1486,Director_591
+s592,Movie,Sample_Title_505,Director_592
+s593,TV Show,Sample_Title_266,Director_593
+s594,Movie,Sample_Title_857,Director_594
+s595,Movie,Sample_Title_1790,Director_595
+s596,TV Show,Sample_Title_2517,Director_596
+s597,Movie,Sample_Title_2644,Director_597
+s598,TV Show,Sample_Title_165,Director_598
+s599,Movie,Sample_Title_2313,Director_599
+s600,TV Show,Sample_Title_765,Director_600
+s601,Movie,Sample_Title_1438,Director_601
+s602,Movie,Sample_Title_943,Director_602
+s603,TV Show,Sample_Title_1177,Director_603
+s604,Movie,Sample_Title_104,Director_604
+s605,Movie,Sample_Title_2358,Director_605
+s606,Movie,Sample_Title_1206,Director_606
+s607,TV Show,Sample_Title_2501,Director_607
+s608,TV Show,Sample_Title_78,Director_608
+s609,Movie,Sample_Title_785,Director_609
+s610,TV Show,Sample_Title_1051,Director_610
+s611,TV Show,Sample_Title_286,Director_611
+s612,Movie,Sample_Title_2529,Director_612
+s613,Movie,Sample_Title_1922,Director_613
+s614,TV Show,Sample_Title_2200,Director_614
+s615,TV Show,Sample_Title_2809,Director_615
+s616,Movie,Sample_Title_2872,Director_616
+s617,Movie,Sample_Title_163,Director_617
+s618,Movie,Sample_Title_2530,Director_618
+s619,Movie,Sample_Title_259,Director_619
+s620,TV Show,Sample_Title_2569,Director_620
+s621,Movie,Sample_Title_2086,Director_621
+s622,TV Show,Sample_Title_2747,Director_622
+s623,TV Show,Sample_Title_2011,Director_623
+s624,Movie,Sample_Title_1308,Director_624
+s625,Movie,Sample_Title_1930,Director_625
+s626,TV Show,Sample_Title_938,Director_626
+s627,Movie,Sample_Title_91,Director_627
+s628,Movie,Sample_Title_2310,Director_628
+s629,Movie,Sample_Title_1758,Director_629
+s630,Movie,Sample_Title_1025,Director_630
+s631,Movie,Sample_Title_1228,Director_631
+s632,TV Show,Sample_Title_584,Director_632
+s633,Movie,Sample_Title_1482,Director_633
+s634,TV Show,Sample_Title_1356,Director_634
+s635,TV Show,Sample_Title_664,Director_635
+s636,TV Show,Sample_Title_1545,Director_636
+s637,TV Show,Sample_Title_2575,Director_637
+s638,TV Show,Sample_Title_880,Director_638
+s639,Movie,Sample_Title_1892,Director_639
+s640,TV Show,Sample_Title_1666,Director_640
+s641,Movie,Sample_Title_1362,Director_641
+s642,TV Show,Sample_Title_21,Director_642
+s643,TV Show,Sample_Title_1447,Director_643
+s644,Movie,Sample_Title_2194,Director_644
+s645,Movie,Sample_Title_77,Director_645
+s646,TV Show,Sample_Title_1046,Director_646
+s647,Movie,Sample_Title_611,Director_647
+s648,TV Show,Sample_Title_548,Director_648
+s649,Movie,Sample_Title_2792,Director_649
+s650,TV Show,Sample_Title_1476,Director_650
+s651,TV Show,Sample_Title_1901,Director_651
+s652,Movie,Sample_Title_1686,Director_652
+s653,Movie,Sample_Title_1429,Director_653
+s654,TV Show,Sample_Title_447,Director_654
+s655,TV Show,Sample_Title_1611,Director_655
+s656,Movie,Sample_Title_352,Director_656
+s657,Movie,Sample_Title_932,Director_657
+s658,Movie,Sample_Title_2931,Director_658
+s659,TV Show,Sample_Title_2118,Director_659
+s660,Movie,Sample_Title_805,Director_660
+s661,TV Show,Sample_Title_1116,Director_661
+s662,TV Show,Sample_Title_681,Director_662
+s663,TV Show,Sample_Title_1797,Director_663
+s664,TV Show,Sample_Title_979,Director_664
+s665,Movie,Sample_Title_409,Director_665
+s666,Movie,Sample_Title_2675,Director_666
+s667,TV Show,Sample_Title_619,Director_667
+s668,TV Show,Sample_Title_1329,Director_668
+s669,Movie,Sample_Title_681,Director_669
+s670,Movie,Sample_Title_2266,Director_670
+s671,TV Show,Sample_Title_2521,Director_671
+s672,TV Show,Sample_Title_1857,Director_672
+s673,TV Show,Sample_Title_68,Director_673
+s674,TV Show,Sample_Title_1657,Director_674
+s675,TV Show,Sample_Title_934,Director_675
+s676,Movie,Sample_Title_2554,Director_676
+s677,Movie,Sample_Title_337,Director_677
+s678,Movie,Sample_Title_2239,Director_678
+s679,Movie,Sample_Title_1383,Director_679
+s680,TV Show,Sample_Title_1119,Director_680
+s681,TV Show,Sample_Title_2499,Director_681
+s682,TV Show,Sample_Title_1333,Director_682
+s683,Movie,Sample_Title_2473,Director_683
+s684,TV Show,Sample_Title_349,Director_684
+s685,Movie,Sample_Title_1968,Director_685
+s686,Movie,Sample_Title_2202,Director_686
+s687,TV Show,Sample_Title_1543,Director_687
+s688,TV Show,Sample_Title_1181,Director_688
+s689,TV Show,Sample_Title_258,Director_689
+s690,Movie,Sample_Title_1389,Director_690
+s691,Movie,Sample_Title_2423,Director_691
+s692,Movie,Sample_Title_2033,Director_692
+s693,Movie,Sample_Title_601,Director_693
+s694,Movie,Sample_Title_1650,Director_694
+s695,Movie,Sample_Title_2026,Director_695
+s696,TV Show,Sample_Title_1397,Director_696
+s697,Movie,Sample_Title_2138,Director_697
+s698,TV Show,Sample_Title_763,Director_698
+s699,TV Show,Sample_Title_790,Director_699
+s700,Movie,Sample_Title_84,Director_700
+s701,TV Show,Sample_Title_511,Director_701
+s702,TV Show,Sample_Title_2710,Director_702
+s703,Movie,Sample_Title_1244,Director_703
+s704,Movie,Sample_Title_1737,Director_704
+s705,TV Show,Sample_Title_1912,Director_705
+s706,Movie,Sample_Title_2047,Director_706
+s707,TV Show,Sample_Title_1307,Director_707
+s708,Movie,Sample_Title_2863,Director_708
+s709,Movie,Sample_Title_224,Director_709
+s710,Movie,Sample_Title_1132,Director_710
+s711,TV Show,Sample_Title_2712,Director_711
+s712,Movie,Sample_Title_1626,Director_712
+s713,TV Show,Sample_Title_1348,Director_713
+s714,TV Show,Sample_Title_1805,Director_714
+s715,TV Show,Sample_Title_104,Director_715
+s716,TV Show,Sample_Title_1011,Director_716
+s717,Movie,Sample_Title_1414,Director_717
+s718,TV Show,Sample_Title_66,Director_718
+s719,Movie,Sample_Title_1164,Director_719
+s720,Movie,Sample_Title_2441,Director_720
+s721,TV Show,Sample_Title_1397,Director_721
+s722,TV Show,Sample_Title_2578,Director_722
+s723,TV Show,Sample_Title_2167,Director_723
+s724,Movie,Sample_Title_549,Director_724
+s725,Movie,Sample_Title_1313,Director_725
+s726,TV Show,Sample_Title_2271,Director_726
+s727,Movie,Sample_Title_2777,Director_727
+s728,Movie,Sample_Title_1844,Director_728
+s729,Movie,Sample_Title_1127,Director_729
+s730,TV Show,Sample_Title_2637,Director_730
+s731,TV Show,Sample_Title_1237,Director_731
+s732,TV Show,Sample_Title_2868,Director_732
+s733,Movie,Sample_Title_2665,Director_733
+s734,TV Show,Sample_Title_2722,Director_734
+s735,TV Show,Sample_Title_2358,Director_735
+s736,TV Show,Sample_Title_1758,Director_736
+s737,Movie,Sample_Title_63,Director_737
+s738,Movie,Sample_Title_305,Director_738
+s739,Movie,Sample_Title_2332,Director_739
+s740,TV Show,Sample_Title_203,Director_740
+s741,TV Show,Sample_Title_1752,Director_741
+s742,Movie,Sample_Title_1434,Director_742
+s743,Movie,Sample_Title_2113,Director_743
+s744,TV Show,Sample_Title_1881,Director_744
+s745,Movie,Sample_Title_763,Director_745
+s746,Movie,Sample_Title_1314,Director_746
+s747,TV Show,Sample_Title_1199,Director_747
+s748,Movie,Sample_Title_2825,Director_748
+s749,Movie,Sample_Title_4,Director_749
+s750,TV Show,Sample_Title_1631,Director_750
+s751,Movie,Sample_Title_1496,Director_751
+s752,TV Show,Sample_Title_1594,Director_752
+s753,TV Show,Sample_Title_2734,Director_753
+s754,Movie,Sample_Title_729,Director_754
+s755,Movie,Sample_Title_34,Director_755
+s756,Movie,Sample_Title_583,Director_756
+s757,Movie,Sample_Title_1693,Director_757
+s758,TV Show,Sample_Title_2807,Director_758
+s759,TV Show,Sample_Title_2670,Director_759
+s760,Movie,Sample_Title_1996,Director_760
+s761,TV Show,Sample_Title_2397,Director_761
+s762,Movie,Sample_Title_2853,Director_762
+s763,Movie,Sample_Title_1089,Director_763
+s764,TV Show,Sample_Title_2534,Director_764
+s765,Movie,Sample_Title_911,Director_765
+s766,TV Show,Sample_Title_332,Director_766
+s767,TV Show,Sample_Title_1777,Director_767
+s768,Movie,Sample_Title_1628,Director_768
+s769,TV Show,Sample_Title_2331,Director_769
+s770,Movie,Sample_Title_666,Director_770
+s771,TV Show,Sample_Title_358,Director_771
+s772,TV Show,Sample_Title_971,Director_772
+s773,Movie,Sample_Title_185,Director_773
+s774,TV Show,Sample_Title_1058,Director_774
+s775,Movie,Sample_Title_1903,Director_775
+s776,TV Show,Sample_Title_2204,Director_776
+s777,Movie,Sample_Title_570,Director_777
+s778,TV Show,Sample_Title_494,Director_778
+s779,TV Show,Sample_Title_2505,Director_779
+s780,Movie,Sample_Title_1069,Director_780
+s781,Movie,Sample_Title_2835,Director_781
+s782,TV Show,Sample_Title_1690,Director_782
+s783,Movie,Sample_Title_2230,Director_783
+s784,TV Show,Sample_Title_1256,Director_784
+s785,TV Show,Sample_Title_2509,Director_785
+s786,Movie,Sample_Title_325,Director_786
+s787,Movie,Sample_Title_126,Director_787
+s788,TV Show,Sample_Title_1313,Director_788
+s789,TV Show,Sample_Title_2560,Director_789
+s790,Movie,Sample_Title_2642,Director_790
+s791,Movie,Sample_Title_2596,Director_791
+s792,Movie,Sample_Title_884,Director_792
+s793,Movie,Sample_Title_1278,Director_793
+s794,TV Show,Sample_Title_1175,Director_794
+s795,Movie,Sample_Title_2245,Director_795
+s796,TV Show,Sample_Title_632,Director_796
+s797,Movie,Sample_Title_2083,Director_797
+s798,Movie,Sample_Title_975,Director_798
+s799,Movie,Sample_Title_2653,Director_799
+s800,Movie,Sample_Title_1982,Director_800
+s801,TV Show,Sample_Title_29,Director_801
+s802,TV Show,Sample_Title_967,Director_802
+s803,TV Show,Sample_Title_957,Director_803
+s804,Movie,Sample_Title_1444,Director_804
+s805,Movie,Sample_Title_549,Director_805
+s806,Movie,Sample_Title_507,Director_806
+s807,TV Show,Sample_Title_2836,Director_807
+s808,TV Show,Sample_Title_205,Director_808
+s809,Movie,Sample_Title_2125,Director_809
+s810,TV Show,Sample_Title_371,Director_810
+s811,TV Show,Sample_Title_1843,Director_811
+s812,Movie,Sample_Title_1335,Director_812
+s813,TV Show,Sample_Title_74,Director_813
+s814,Movie,Sample_Title_55,Director_814
+s815,TV Show,Sample_Title_597,Director_815
+s816,TV Show,Sample_Title_181,Director_816
+s817,Movie,Sample_Title_2327,Director_817
+s818,Movie,Sample_Title_1790,Director_818
+s819,Movie,Sample_Title_2065,Director_819
+s820,Movie,Sample_Title_2332,Director_820
+s821,Movie,Sample_Title_923,Director_821
+s822,TV Show,Sample_Title_1204,Director_822
+s823,Movie,Sample_Title_889,Director_823
+s824,TV Show,Sample_Title_911,Director_824
+s825,Movie,Sample_Title_1794,Director_825
+s826,TV Show,Sample_Title_2287,Director_826
+s827,TV Show,Sample_Title_1998,Director_827
+s828,TV Show,Sample_Title_2616,Director_828
+s829,Movie,Sample_Title_2150,Director_829
+s830,TV Show,Sample_Title_458,Director_830
+s831,Movie,Sample_Title_1008,Director_831
+s832,Movie,Sample_Title_994,Director_832
+s833,TV Show,Sample_Title_2821,Director_833
+s834,Movie,Sample_Title_434,Director_834
+s835,TV Show,Sample_Title_854,Director_835
+s836,TV Show,Sample_Title_2603,Director_836
+s837,TV Show,Sample_Title_24,Director_837
+s838,TV Show,Sample_Title_1709,Director_838
+s839,TV Show,Sample_Title_1992,Director_839
+s840,TV Show,Sample_Title_1439,Director_840
+s841,Movie,Sample_Title_2231,Director_841
+s842,TV Show,Sample_Title_150,Director_842
+s843,Movie,Sample_Title_82,Director_843
+s844,TV Show,Sample_Title_671,Director_844
+s845,TV Show,Sample_Title_2360,Director_845
+s846,TV Show,Sample_Title_2077,Director_846
+s847,TV Show,Sample_Title_2496,Director_847
+s848,TV Show,Sample_Title_24,Director_848
+s849,Movie,Sample_Title_2958,Director_849
+s850,Movie,Sample_Title_844,Director_850
+s851,TV Show,Sample_Title_859,Director_851
+s852,TV Show,Sample_Title_2966,Director_852
+s853,TV Show,Sample_Title_985,Director_853
+s854,Movie,Sample_Title_2294,Director_854
+s855,TV Show,Sample_Title_2774,Director_855
+s856,Movie,Sample_Title_1534,Director_856
+s857,TV Show,Sample_Title_1747,Director_857
+s858,TV Show,Sample_Title_2712,Director_858
+s859,TV Show,Sample_Title_2342,Director_859
+s860,Movie,Sample_Title_2160,Director_860
+s861,TV Show,Sample_Title_1341,Director_861
+s862,TV Show,Sample_Title_920,Director_862
+s863,TV Show,Sample_Title_2941,Director_863
+s864,Movie,Sample_Title_2722,Director_864
+s865,Movie,Sample_Title_2393,Director_865
+s866,TV Show,Sample_Title_2217,Director_866
+s867,TV Show,Sample_Title_696,Director_867
+s868,Movie,Sample_Title_2454,Director_868
+s869,Movie,Sample_Title_2029,Director_869
+s870,Movie,Sample_Title_1032,Director_870
+s871,TV Show,Sample_Title_2075,Director_871
+s872,Movie,Sample_Title_2870,Director_872
+s873,Movie,Sample_Title_2141,Director_873
+s874,TV Show,Sample_Title_2582,Director_874
+s875,Movie,Sample_Title_2301,Director_875
+s876,Movie,Sample_Title_39,Director_876
+s877,TV Show,Sample_Title_812,Director_877
+s878,Movie,Sample_Title_663,Director_878
+s879,TV Show,Sample_Title_473,Director_879
+s880,TV Show,Sample_Title_1070,Director_880
+s881,Movie,Sample_Title_877,Director_881
+s882,TV Show,Sample_Title_2,Director_882
+s883,Movie,Sample_Title_251,Director_883
+s884,TV Show,Sample_Title_2071,Director_884
+s885,TV Show,Sample_Title_2441,Director_885
+s886,TV Show,Sample_Title_2517,Director_886
+s887,Movie,Sample_Title_2905,Director_887
+s888,Movie,Sample_Title_8,Director_888
+s889,TV Show,Sample_Title_887,Director_889
+s890,Movie,Sample_Title_2859,Director_890
+s891,TV Show,Sample_Title_2367,Director_891
+s892,Movie,Sample_Title_2884,Director_892
+s893,Movie,Sample_Title_2226,Director_893
+s894,TV Show,Sample_Title_669,Director_894
+s895,Movie,Sample_Title_1066,Director_895
+s896,TV Show,Sample_Title_1086,Director_896
+s897,TV Show,Sample_Title_1681,Director_897
+s898,Movie,Sample_Title_510,Director_898
+s899,TV Show,Sample_Title_1566,Director_899
+s900,Movie,Sample_Title_2268,Director_900
+s901,Movie,Sample_Title_1855,Director_901
+s902,Movie,Sample_Title_2908,Director_902
+s903,TV Show,Sample_Title_2453,Director_903
+s904,Movie,Sample_Title_307,Director_904
+s905,TV Show,Sample_Title_276,Director_905
+s906,Movie,Sample_Title_239,Director_906
+s907,Movie,Sample_Title_1443,Director_907
+s908,Movie,Sample_Title_2908,Director_908
+s909,TV Show,Sample_Title_1332,Director_909
+s910,Movie,Sample_Title_1234,Director_910
+s911,Movie,Sample_Title_2663,Director_911
+s912,TV Show,Sample_Title_2698,Director_912
+s913,Movie,Sample_Title_1795,Director_913
+s914,Movie,Sample_Title_1779,Director_914
+s915,TV Show,Sample_Title_2179,Director_915
+s916,TV Show,Sample_Title_1691,Director_916
+s917,Movie,Sample_Title_2592,Director_917
+s918,Movie,Sample_Title_2230,Director_918
+s919,TV Show,Sample_Title_1329,Director_919
+s920,Movie,Sample_Title_458,Director_920
+s921,TV Show,Sample_Title_1016,Director_921
+s922,Movie,Sample_Title_1080,Director_922
+s923,TV Show,Sample_Title_447,Director_923
+s924,TV Show,Sample_Title_2947,Director_924
+s925,TV Show,Sample_Title_975,Director_925
+s926,TV Show,Sample_Title_833,Director_926
+s927,TV Show,Sample_Title_1502,Director_927
+s928,Movie,Sample_Title_1171,Director_928
+s929,Movie,Sample_Title_2637,Director_929
+s930,TV Show,Sample_Title_1536,Director_930
+s931,TV Show,Sample_Title_2483,Director_931
+s932,Movie,Sample_Title_701,Director_932
+s933,TV Show,Sample_Title_2876,Director_933
+s934,Movie,Sample_Title_1025,Director_934
+s935,TV Show,Sample_Title_1340,Director_935
+s936,Movie,Sample_Title_132,Director_936
+s937,Movie,Sample_Title_202,Director_937
+s938,TV Show,Sample_Title_2893,Director_938
+s939,Movie,Sample_Title_452,Director_939
+s940,Movie,Sample_Title_1293,Director_940
+s941,Movie,Sample_Title_4,Director_941
+s942,Movie,Sample_Title_2919,Director_942
+s943,TV Show,Sample_Title_2371,Director_943
+s944,Movie,Sample_Title_2780,Director_944
+s945,TV Show,Sample_Title_2842,Director_945
+s946,TV Show,Sample_Title_2484,Director_946
+s947,TV Show,Sample_Title_1301,Director_947
+s948,Movie,Sample_Title_2103,Director_948
+s949,TV Show,Sample_Title_548,Director_949
+s950,TV Show,Sample_Title_322,Director_950
+s951,TV Show,Sample_Title_2546,Director_951
+s952,Movie,Sample_Title_517,Director_952
+s953,TV Show,Sample_Title_719,Director_953
+s954,TV Show,Sample_Title_2891,Director_954
+s955,TV Show,Sample_Title_764,Director_955
+s956,TV Show,Sample_Title_2290,Director_956
+s957,TV Show,Sample_Title_1581,Director_957
+s958,TV Show,Sample_Title_2092,Director_958
+s959,Movie,Sample_Title_2378,Director_959
+s960,TV Show,Sample_Title_1318,Director_960
+s961,Movie,Sample_Title_534,Director_961
+s962,TV Show,Sample_Title_970,Director_962
+s963,TV Show,Sample_Title_859,Director_963
+s964,TV Show,Sample_Title_2411,Director_964
+s965,Movie,Sample_Title_1908,Director_965
+s966,TV Show,Sample_Title_1813,Director_966
+s967,TV Show,Sample_Title_174,Director_967
+s968,TV Show,Sample_Title_2175,Director_968
+s969,TV Show,Sample_Title_915,Director_969
+s970,TV Show,Sample_Title_1722,Director_970
+s971,Movie,Sample_Title_1341,Director_971
+s972,TV Show,Sample_Title_1146,Director_972
+s973,TV Show,Sample_Title_1001,Director_973
+s974,Movie,Sample_Title_2116,Director_974
+s975,TV Show,Sample_Title_371,Director_975
+s976,TV Show,Sample_Title_50,Director_976
+s977,Movie,Sample_Title_156,Director_977
+s978,Movie,Sample_Title_1610,Director_978
+s979,TV Show,Sample_Title_1063,Director_979
+s980,Movie,Sample_Title_2858,Director_980
+s981,TV Show,Sample_Title_944,Director_981
+s982,TV Show,Sample_Title_2494,Director_982
+s983,TV Show,Sample_Title_1338,Director_983
+s984,TV Show,Sample_Title_30,Director_984
+s985,TV Show,Sample_Title_835,Director_985
+s986,TV Show,Sample_Title_1647,Director_986
+s987,TV Show,Sample_Title_2051,Director_987
+s988,Movie,Sample_Title_1473,Director_988
+s989,Movie,Sample_Title_1914,Director_989
+s990,TV Show,Sample_Title_2977,Director_990
+s991,TV Show,Sample_Title_2115,Director_991
+s992,TV Show,Sample_Title_2534,Director_992
+s993,Movie,Sample_Title_2595,Director_993
+s994,TV Show,Sample_Title_569,Director_994
+s995,Movie,Sample_Title_2799,Director_995
+s996,Movie,Sample_Title_1123,Director_996
+s997,Movie,Sample_Title_857,Director_997
+s998,Movie,Sample_Title_217,Director_998
+s999,TV Show,Sample_Title_748,Director_999
+s1000,TV Show,Sample_Title_2745,Director_1000
+s1001,Movie,Sample_Title_1716,Director_1001
+s1002,Movie,Sample_Title_2890,Director_1002
+s1003,Movie,Sample_Title_735,Director_1003
+s1004,Movie,Sample_Title_2477,Director_1004
+s1005,TV Show,Sample_Title_2503,Director_1005
+s1006,Movie,Sample_Title_1860,Director_1006
+s1007,Movie,Sample_Title_2411,Director_1007
+s1008,Movie,Sample_Title_1567,Director_1008
+s1009,Movie,Sample_Title_2484,Director_1009
+s1010,Movie,Sample_Title_2480,Director_1010
+s1011,Movie,Sample_Title_2459,Director_1011
+s1012,TV Show,Sample_Title_2752,Director_1012
+s1013,TV Show,Sample_Title_3000,Director_1013
+s1014,TV Show,Sample_Title_2554,Director_1014
+s1015,Movie,Sample_Title_1221,Director_1015
+s1016,TV Show,Sample_Title_2650,Director_1016
+s1017,Movie,Sample_Title_1383,Director_1017
+s1018,Movie,Sample_Title_886,Director_1018
+s1019,Movie,Sample_Title_666,Director_1019
+s1020,TV Show,Sample_Title_2607,Director_1020
+s1021,Movie,Sample_Title_1781,Director_1021
+s1022,TV Show,Sample_Title_2936,Director_1022
+s1023,TV Show,Sample_Title_2321,Director_1023
+s1024,TV Show,Sample_Title_572,Director_1024
+s1025,TV Show,Sample_Title_2347,Director_1025
+s1026,TV Show,Sample_Title_706,Director_1026
+s1027,TV Show,Sample_Title_113,Director_1027
+s1028,TV Show,Sample_Title_2486,Director_1028
+s1029,TV Show,Sample_Title_178,Director_1029
+s1030,Movie,Sample_Title_1088,Director_1030
+s1031,Movie,Sample_Title_2987,Director_1031
+s1032,Movie,Sample_Title_1786,Director_1032
+s1033,TV Show,Sample_Title_730,Director_1033
+s1034,Movie,Sample_Title_2739,Director_1034
+s1035,Movie,Sample_Title_1344,Director_1035
+s1036,TV Show,Sample_Title_647,Director_1036
+s1037,Movie,Sample_Title_1338,Director_1037
+s1038,TV Show,Sample_Title_1771,Director_1038
+s1039,TV Show,Sample_Title_1479,Director_1039
+s1040,TV Show,Sample_Title_333,Director_1040
+s1041,TV Show,Sample_Title_647,Director_1041
+s1042,Movie,Sample_Title_959,Director_1042
+s1043,Movie,Sample_Title_1151,Director_1043
+s1044,TV Show,Sample_Title_2700,Director_1044
+s1045,Movie,Sample_Title_2450,Director_1045
+s1046,Movie,Sample_Title_2289,Director_1046
+s1047,TV Show,Sample_Title_1061,Director_1047
+s1048,TV Show,Sample_Title_1635,Director_1048
+s1049,TV Show,Sample_Title_2442,Director_1049
+s1050,TV Show,Sample_Title_2720,Director_1050
+s1051,TV Show,Sample_Title_309,Director_1051
+s1052,Movie,Sample_Title_200,Director_1052
+s1053,TV Show,Sample_Title_1724,Director_1053
+s1054,TV Show,Sample_Title_1964,Director_1054
+s1055,Movie,Sample_Title_2327,Director_1055
+s1056,TV Show,Sample_Title_1828,Director_1056
+s1057,TV Show,Sample_Title_1368,Director_1057
+s1058,Movie,Sample_Title_2428,Director_1058
+s1059,Movie,Sample_Title_1340,Director_1059
+s1060,Movie,Sample_Title_1524,Director_1060
+s1061,Movie,Sample_Title_483,Director_1061
+s1062,Movie,Sample_Title_1515,Director_1062
+s1063,Movie,Sample_Title_2278,Director_1063
+s1064,Movie,Sample_Title_982,Director_1064
+s1065,TV Show,Sample_Title_1607,Director_1065
+s1066,TV Show,Sample_Title_2226,Director_1066
+s1067,TV Show,Sample_Title_98,Director_1067
+s1068,Movie,Sample_Title_944,Director_1068
+s1069,Movie,Sample_Title_2347,Director_1069
+s1070,TV Show,Sample_Title_2464,Director_1070
+s1071,TV Show,Sample_Title_1781,Director_1071
+s1072,TV Show,Sample_Title_2264,Director_1072
+s1073,TV Show,Sample_Title_2583,Director_1073
+s1074,Movie,Sample_Title_1985,Director_1074
+s1075,TV Show,Sample_Title_2008,Director_1075
+s1076,Movie,Sample_Title_1552,Director_1076
+s1077,TV Show,Sample_Title_153,Director_1077
+s1078,TV Show,Sample_Title_2783,Director_1078
+s1079,TV Show,Sample_Title_2208,Director_1079
+s1080,TV Show,Sample_Title_857,Director_1080
+s1081,TV Show,Sample_Title_1994,Director_1081
+s1082,TV Show,Sample_Title_1465,Director_1082
+s1083,TV Show,Sample_Title_2902,Director_1083
+s1084,Movie,Sample_Title_776,Director_1084
+s1085,TV Show,Sample_Title_1330,Director_1085
+s1086,Movie,Sample_Title_1201,Director_1086
+s1087,TV Show,Sample_Title_1607,Director_1087
+s1088,TV Show,Sample_Title_2968,Director_1088
+s1089,Movie,Sample_Title_2270,Director_1089
+s1090,Movie,Sample_Title_527,Director_1090
+s1091,Movie,Sample_Title_1126,Director_1091
+s1092,Movie,Sample_Title_1930,Director_1092
+s1093,TV Show,Sample_Title_1552,Director_1093
+s1094,Movie,Sample_Title_606,Director_1094
+s1095,Movie,Sample_Title_365,Director_1095
+s1096,TV Show,Sample_Title_696,Director_1096
+s1097,Movie,Sample_Title_465,Director_1097
+s1098,Movie,Sample_Title_1931,Director_1098
+s1099,TV Show,Sample_Title_2553,Director_1099
+s1100,Movie,Sample_Title_1010,Director_1100
+s1101,TV Show,Sample_Title_1511,Director_1101
+s1102,Movie,Sample_Title_1947,Director_1102
+s1103,Movie,Sample_Title_2134,Director_1103
+s1104,TV Show,Sample_Title_373,Director_1104
+s1105,Movie,Sample_Title_2270,Director_1105
+s1106,TV Show,Sample_Title_988,Director_1106
+s1107,TV Show,Sample_Title_912,Director_1107
+s1108,TV Show,Sample_Title_409,Director_1108
+s1109,TV Show,Sample_Title_2558,Director_1109
+s1110,Movie,Sample_Title_2154,Director_1110
+s1111,Movie,Sample_Title_1521,Director_1111
+s1112,TV Show,Sample_Title_2366,Director_1112
+s1113,Movie,Sample_Title_305,Director_1113
+s1114,Movie,Sample_Title_1434,Director_1114
+s1115,Movie,Sample_Title_181,Director_1115
+s1116,Movie,Sample_Title_1996,Director_1116
+s1117,Movie,Sample_Title_773,Director_1117
+s1118,TV Show,Sample_Title_409,Director_1118
+s1119,Movie,Sample_Title_2764,Director_1119
+s1120,Movie,Sample_Title_2116,Director_1120
+s1121,Movie,Sample_Title_2891,Director_1121
+s1122,TV Show,Sample_Title_2875,Director_1122
+s1123,TV Show,Sample_Title_2209,Director_1123
+s1124,Movie,Sample_Title_505,Director_1124
+s1125,TV Show,Sample_Title_114,Director_1125
+s1126,TV Show,Sample_Title_1722,Director_1126
+s1127,TV Show,Sample_Title_1275,Director_1127
+s1128,TV Show,Sample_Title_2045,Director_1128
+s1129,Movie,Sample_Title_1490,Director_1129
+s1130,TV Show,Sample_Title_1922,Director_1130
+s1131,Movie,Sample_Title_493,Director_1131
+s1132,TV Show,Sample_Title_736,Director_1132
+s1133,Movie,Sample_Title_1967,Director_1133
+s1134,TV Show,Sample_Title_461,Director_1134
+s1135,Movie,Sample_Title_1131,Director_1135
+s1136,Movie,Sample_Title_260,Director_1136
+s1137,Movie,Sample_Title_2405,Director_1137
+s1138,Movie,Sample_Title_1351,Director_1138
+s1139,TV Show,Sample_Title_193,Director_1139
+s1140,Movie,Sample_Title_110,Director_1140
+s1141,TV Show,Sample_Title_2754,Director_1141
+s1142,TV Show,Sample_Title_2315,Director_1142
+s1143,Movie,Sample_Title_1686,Director_1143
+s1144,Movie,Sample_Title_2019,Director_1144
+s1145,Movie,Sample_Title_1972,Director_1145
+s1146,Movie,Sample_Title_1891,Director_1146
+s1147,Movie,Sample_Title_2010,Director_1147
+s1148,Movie,Sample_Title_542,Director_1148
+s1149,Movie,Sample_Title_865,Director_1149
+s1150,TV Show,Sample_Title_135,Director_1150
+s1151,Movie,Sample_Title_1569,Director_1151
+s1152,Movie,Sample_Title_1235,Director_1152
+s1153,Movie,Sample_Title_277,Director_1153
+s1154,Movie,Sample_Title_2252,Director_1154
+s1155,Movie,Sample_Title_1931,Director_1155
+s1156,Movie,Sample_Title_750,Director_1156
+s1157,Movie,Sample_Title_1632,Director_1157
+s1158,Movie,Sample_Title_2293,Director_1158
+s1159,TV Show,Sample_Title_1939,Director_1159
+s1160,Movie,Sample_Title_814,Director_1160
+s1161,Movie,Sample_Title_1045,Director_1161
+s1162,Movie,Sample_Title_1487,Director_1162
+s1163,TV Show,Sample_Title_1759,Director_1163
+s1164,TV Show,Sample_Title_1487,Director_1164
+s1165,Movie,Sample_Title_782,Director_1165
+s1166,Movie,Sample_Title_1337,Director_1166
+s1167,Movie,Sample_Title_2851,Director_1167
+s1168,TV Show,Sample_Title_2405,Director_1168
+s1169,Movie,Sample_Title_2850,Director_1169
+s1170,TV Show,Sample_Title_1462,Director_1170
+s1171,Movie,Sample_Title_625,Director_1171
+s1172,Movie,Sample_Title_79,Director_1172
+s1173,Movie,Sample_Title_926,Director_1173
+s1174,TV Show,Sample_Title_1974,Director_1174
+s1175,TV Show,Sample_Title_88,Director_1175
+s1176,TV Show,Sample_Title_395,Director_1176
+s1177,TV Show,Sample_Title_524,Director_1177
+s1178,Movie,Sample_Title_524,Director_1178
+s1179,Movie,Sample_Title_1429,Director_1179
+s1180,Movie,Sample_Title_2290,Director_1180
+s1181,Movie,Sample_Title_1218,Director_1181
+s1182,TV Show,Sample_Title_188,Director_1182
+s1183,TV Show,Sample_Title_456,Director_1183
+s1184,TV Show,Sample_Title_2001,Director_1184
+s1185,TV Show,Sample_Title_835,Director_1185
+s1186,TV Show,Sample_Title_1148,Director_1186
+s1187,Movie,Sample_Title_1705,Director_1187
+s1188,TV Show,Sample_Title_1501,Director_1188
+s1189,Movie,Sample_Title_2948,Director_1189
+s1190,Movie,Sample_Title_1909,Director_1190
+s1191,Movie,Sample_Title_158,Director_1191
+s1192,TV Show,Sample_Title_263,Director_1192
+s1193,TV Show,Sample_Title_995,Director_1193
+s1194,TV Show,Sample_Title_2212,Director_1194
+s1195,TV Show,Sample_Title_2797,Director_1195
+s1196,Movie,Sample_Title_1005,Director_1196
+s1197,TV Show,Sample_Title_220,Director_1197
+s1198,TV Show,Sample_Title_1272,Director_1198
+s1199,Movie,Sample_Title_413,Director_1199
+s1200,Movie,Sample_Title_1103,Director_1200
+s1201,TV Show,Sample_Title_422,Director_1201
+s1202,TV Show,Sample_Title_1494,Director_1202
+s1203,TV Show,Sample_Title_802,Director_1203
+s1204,TV Show,Sample_Title_1028,Director_1204
+s1205,TV Show,Sample_Title_2711,Director_1205
+s1206,TV Show,Sample_Title_1894,Director_1206
+s1207,TV Show,Sample_Title_485,Director_1207
+s1208,TV Show,Sample_Title_2395,Director_1208
+s1209,TV Show,Sample_Title_2895,Director_1209
+s1210,Movie,Sample_Title_416,Director_1210
+s1211,TV Show,Sample_Title_454,Director_1211
+s1212,TV Show,Sample_Title_1192,Director_1212
+s1213,TV Show,Sample_Title_1588,Director_1213
+s1214,Movie,Sample_Title_881,Director_1214
+s1215,Movie,Sample_Title_2351,Director_1215
+s1216,TV Show,Sample_Title_2307,Director_1216
+s1217,TV Show,Sample_Title_453,Director_1217
+s1218,TV Show,Sample_Title_1170,Director_1218
+s1219,Movie,Sample_Title_942,Director_1219
+s1220,TV Show,Sample_Title_176,Director_1220
+s1221,TV Show,Sample_Title_2232,Director_1221
+s1222,TV Show,Sample_Title_1854,Director_1222
+s1223,TV Show,Sample_Title_146,Director_1223
+s1224,Movie,Sample_Title_372,Director_1224
+s1225,Movie,Sample_Title_2275,Director_1225
+s1226,TV Show,Sample_Title_762,Director_1226
+s1227,Movie,Sample_Title_2474,Director_1227
+s1228,TV Show,Sample_Title_1760,Director_1228
+s1229,Movie,Sample_Title_1825,Director_1229
+s1230,Movie,Sample_Title_2730,Director_1230
+s1231,TV Show,Sample_Title_2889,Director_1231
+s1232,Movie,Sample_Title_104,Director_1232
+s1233,TV Show,Sample_Title_2755,Director_1233
+s1234,Movie,Sample_Title_9,Director_1234
+s1235,Movie,Sample_Title_925,Director_1235
+s1236,TV Show,Sample_Title_1254,Director_1236
+s1237,Movie,Sample_Title_60,Director_1237
+s1238,TV Show,Sample_Title_1695,Director_1238
+s1239,Movie,Sample_Title_1913,Director_1239
+s1240,TV Show,Sample_Title_1774,Director_1240
+s1241,Movie,Sample_Title_1599,Director_1241
+s1242,Movie,Sample_Title_2229,Director_1242
+s1243,Movie,Sample_Title_2202,Director_1243
+s1244,Movie,Sample_Title_174,Director_1244
+s1245,TV Show,Sample_Title_2838,Director_1245
+s1246,Movie,Sample_Title_1605,Director_1246
+s1247,Movie,Sample_Title_1020,Director_1247
+s1248,Movie,Sample_Title_603,Director_1248
+s1249,TV Show,Sample_Title_2106,Director_1249
+s1250,Movie,Sample_Title_175,Director_1250
+s1251,TV Show,Sample_Title_2230,Director_1251
+s1252,TV Show,Sample_Title_2597,Director_1252
+s1253,TV Show,Sample_Title_262,Director_1253
+s1254,TV Show,Sample_Title_486,Director_1254
+s1255,TV Show,Sample_Title_1699,Director_1255
+s1256,Movie,Sample_Title_838,Director_1256
+s1257,TV Show,Sample_Title_348,Director_1257
+s1258,Movie,Sample_Title_985,Director_1258
+s1259,TV Show,Sample_Title_1127,Director_1259
+s1260,TV Show,Sample_Title_1868,Director_1260
+s1261,Movie,Sample_Title_648,Director_1261
+s1262,Movie,Sample_Title_786,Director_1262
+s1263,Movie,Sample_Title_428,Director_1263
+s1264,Movie,Sample_Title_2001,Director_1264
+s1265,Movie,Sample_Title_1063,Director_1265
+s1266,TV Show,Sample_Title_1156,Director_1266
+s1267,TV Show,Sample_Title_2382,Director_1267
+s1268,TV Show,Sample_Title_2084,Director_1268
+s1269,TV Show,Sample_Title_349,Director_1269
+s1270,TV Show,Sample_Title_2044,Director_1270
+s1271,Movie,Sample_Title_822,Director_1271
+s1272,Movie,Sample_Title_1642,Director_1272
+s1273,TV Show,Sample_Title_216,Director_1273
+s1274,Movie,Sample_Title_2644,Director_1274
+s1275,Movie,Sample_Title_120,Director_1275
+s1276,TV Show,Sample_Title_1170,Director_1276
+s1277,TV Show,Sample_Title_2566,Director_1277
+s1278,Movie,Sample_Title_2846,Director_1278
+s1279,Movie,Sample_Title_1565,Director_1279
+s1280,Movie,Sample_Title_2836,Director_1280
+s1281,TV Show,Sample_Title_93,Director_1281
+s1282,TV Show,Sample_Title_1676,Director_1282
+s1283,TV Show,Sample_Title_901,Director_1283
+s1284,TV Show,Sample_Title_1824,Director_1284
+s1285,TV Show,Sample_Title_704,Director_1285
+s1286,Movie,Sample_Title_1970,Director_1286
+s1287,TV Show,Sample_Title_1165,Director_1287
+s1288,TV Show,Sample_Title_366,Director_1288
+s1289,TV Show,Sample_Title_2669,Director_1289
+s1290,TV Show,Sample_Title_1568,Director_1290
+s1291,TV Show,Sample_Title_1644,Director_1291
+s1292,TV Show,Sample_Title_583,Director_1292
+s1293,Movie,Sample_Title_1481,Director_1293
+s1294,Movie,Sample_Title_1158,Director_1294
+s1295,TV Show,Sample_Title_1084,Director_1295
+s1296,TV Show,Sample_Title_2150,Director_1296
+s1297,TV Show,Sample_Title_72,Director_1297
+s1298,TV Show,Sample_Title_1739,Director_1298
+s1299,Movie,Sample_Title_2840,Director_1299
+s1300,TV Show,Sample_Title_2067,Director_1300
+s1301,Movie,Sample_Title_924,Director_1301
+s1302,TV Show,Sample_Title_1917,Director_1302
+s1303,TV Show,Sample_Title_535,Director_1303
+s1304,Movie,Sample_Title_157,Director_1304
+s1305,TV Show,Sample_Title_1676,Director_1305
+s1306,TV Show,Sample_Title_778,Director_1306
+s1307,Movie,Sample_Title_2719,Director_1307
+s1308,Movie,Sample_Title_827,Director_1308
+s1309,TV Show,Sample_Title_2435,Director_1309
+s1310,TV Show,Sample_Title_2320,Director_1310
+s1311,Movie,Sample_Title_1532,Director_1311
+s1312,Movie,Sample_Title_419,Director_1312
+s1313,TV Show,Sample_Title_1827,Director_1313
+s1314,Movie,Sample_Title_1937,Director_1314
+s1315,Movie,Sample_Title_548,Director_1315
+s1316,TV Show,Sample_Title_1599,Director_1316
+s1317,TV Show,Sample_Title_2695,Director_1317
+s1318,TV Show,Sample_Title_520,Director_1318
+s1319,TV Show,Sample_Title_2389,Director_1319
+s1320,Movie,Sample_Title_1939,Director_1320
+s1321,Movie,Sample_Title_2518,Director_1321
+s1322,Movie,Sample_Title_2308,Director_1322
+s1323,Movie,Sample_Title_1624,Director_1323
+s1324,Movie,Sample_Title_2058,Director_1324
+s1325,TV Show,Sample_Title_2178,Director_1325
+s1326,Movie,Sample_Title_1782,Director_1326
+s1327,TV Show,Sample_Title_102,Director_1327
+s1328,TV Show,Sample_Title_874,Director_1328
+s1329,TV Show,Sample_Title_2631,Director_1329
+s1330,TV Show,Sample_Title_1465,Director_1330
+s1331,TV Show,Sample_Title_2973,Director_1331
+s1332,Movie,Sample_Title_10,Director_1332
+s1333,TV Show,Sample_Title_1574,Director_1333
+s1334,Movie,Sample_Title_2863,Director_1334
+s1335,TV Show,Sample_Title_1898,Director_1335
+s1336,Movie,Sample_Title_162,Director_1336
+s1337,Movie,Sample_Title_682,Director_1337
+s1338,Movie,Sample_Title_30,Director_1338
+s1339,TV Show,Sample_Title_2828,Director_1339
+s1340,TV Show,Sample_Title_496,Director_1340
+s1341,TV Show,Sample_Title_1180,Director_1341
+s1342,TV Show,Sample_Title_2521,Director_1342
+s1343,TV Show,Sample_Title_1839,Director_1343
+s1344,Movie,Sample_Title_2774,Director_1344
+s1345,TV Show,Sample_Title_1141,Director_1345
+s1346,Movie,Sample_Title_1523,Director_1346
+s1347,Movie,Sample_Title_178,Director_1347
+s1348,Movie,Sample_Title_2402,Director_1348
+s1349,Movie,Sample_Title_80,Director_1349
+s1350,Movie,Sample_Title_2574,Director_1350
+s1351,TV Show,Sample_Title_1893,Director_1351
+s1352,Movie,Sample_Title_2434,Director_1352
+s1353,TV Show,Sample_Title_573,Director_1353
+s1354,Movie,Sample_Title_2999,Director_1354
+s1355,Movie,Sample_Title_1582,Director_1355
+s1356,TV Show,Sample_Title_1317,Director_1356
+s1357,Movie,Sample_Title_2661,Director_1357
+s1358,TV Show,Sample_Title_1979,Director_1358
+s1359,Movie,Sample_Title_1555,Director_1359
+s1360,Movie,Sample_Title_2347,Director_1360
+s1361,Movie,Sample_Title_1043,Director_1361
+s1362,TV Show,Sample_Title_344,Director_1362
+s1363,Movie,Sample_Title_2036,Director_1363
+s1364,Movie,Sample_Title_941,Director_1364
+s1365,Movie,Sample_Title_1993,Director_1365
+s1366,TV Show,Sample_Title_2973,Director_1366
+s1367,Movie,Sample_Title_720,Director_1367
+s1368,Movie,Sample_Title_1204,Director_1368
+s1369,Movie,Sample_Title_201,Director_1369
+s1370,Movie,Sample_Title_1034,Director_1370
+s1371,TV Show,Sample_Title_2957,Director_1371
+s1372,TV Show,Sample_Title_2105,Director_1372
+s1373,Movie,Sample_Title_616,Director_1373
+s1374,Movie,Sample_Title_2090,Director_1374
+s1375,TV Show,Sample_Title_1737,Director_1375
+s1376,TV Show,Sample_Title_2507,Director_1376
+s1377,Movie,Sample_Title_761,Director_1377
+s1378,Movie,Sample_Title_2901,Director_1378
+s1379,Movie,Sample_Title_97,Director_1379
+s1380,Movie,Sample_Title_1803,Director_1380
+s1381,TV Show,Sample_Title_2552,Director_1381
+s1382,Movie,Sample_Title_2510,Director_1382
+s1383,Movie,Sample_Title_2457,Director_1383
+s1384,Movie,Sample_Title_1972,Director_1384
+s1385,Movie,Sample_Title_1009,Director_1385
+s1386,Movie,Sample_Title_2188,Director_1386
+s1387,Movie,Sample_Title_2449,Director_1387
+s1388,TV Show,Sample_Title_2640,Director_1388
+s1389,TV Show,Sample_Title_1920,Director_1389
+s1390,Movie,Sample_Title_2615,Director_1390
+s1391,TV Show,Sample_Title_100,Director_1391
+s1392,Movie,Sample_Title_1410,Director_1392
+s1393,Movie,Sample_Title_1918,Director_1393
+s1394,Movie,Sample_Title_306,Director_1394
+s1395,Movie,Sample_Title_944,Director_1395
+s1396,Movie,Sample_Title_814,Director_1396
+s1397,TV Show,Sample_Title_2691,Director_1397
+s1398,TV Show,Sample_Title_668,Director_1398
+s1399,Movie,Sample_Title_1555,Director_1399
+s1400,TV Show,Sample_Title_1021,Director_1400
+s1401,TV Show,Sample_Title_950,Director_1401
+s1402,TV Show,Sample_Title_389,Director_1402
+s1403,Movie,Sample_Title_921,Director_1403
+s1404,Movie,Sample_Title_2813,Director_1404
+s1405,TV Show,Sample_Title_2786,Director_1405
+s1406,Movie,Sample_Title_1501,Director_1406
+s1407,Movie,Sample_Title_389,Director_1407
+s1408,Movie,Sample_Title_1376,Director_1408
+s1409,Movie,Sample_Title_1150,Director_1409
+s1410,TV Show,Sample_Title_1281,Director_1410
+s1411,Movie,Sample_Title_1672,Director_1411
+s1412,TV Show,Sample_Title_38,Director_1412
+s1413,Movie,Sample_Title_714,Director_1413
+s1414,Movie,Sample_Title_1511,Director_1414
+s1415,Movie,Sample_Title_2587,Director_1415
+s1416,Movie,Sample_Title_399,Director_1416
+s1417,TV Show,Sample_Title_2009,Director_1417
+s1418,TV Show,Sample_Title_900,Director_1418
+s1419,Movie,Sample_Title_1728,Director_1419
+s1420,Movie,Sample_Title_1305,Director_1420
+s1421,TV Show,Sample_Title_714,Director_1421
+s1422,TV Show,Sample_Title_1630,Director_1422
+s1423,TV Show,Sample_Title_789,Director_1423
+s1424,Movie,Sample_Title_2691,Director_1424
+s1425,Movie,Sample_Title_620,Director_1425
+s1426,TV Show,Sample_Title_2718,Director_1426
+s1427,Movie,Sample_Title_2729,Director_1427
+s1428,Movie,Sample_Title_1872,Director_1428
+s1429,TV Show,Sample_Title_767,Director_1429
+s1430,TV Show,Sample_Title_1178,Director_1430
+s1431,Movie,Sample_Title_1713,Director_1431
+s1432,Movie,Sample_Title_1156,Director_1432
+s1433,TV Show,Sample_Title_1735,Director_1433
+s1434,Movie,Sample_Title_2069,Director_1434
+s1435,TV Show,Sample_Title_2568,Director_1435
+s1436,TV Show,Sample_Title_1313,Director_1436
+s1437,TV Show,Sample_Title_248,Director_1437
+s1438,TV Show,Sample_Title_2689,Director_1438
+s1439,Movie,Sample_Title_1548,Director_1439
+s1440,Movie,Sample_Title_2206,Director_1440
+s1441,TV Show,Sample_Title_2683,Director_1441
+s1442,TV Show,Sample_Title_1601,Director_1442
+s1443,Movie,Sample_Title_1432,Director_1443
+s1444,TV Show,Sample_Title_1082,Director_1444
+s1445,TV Show,Sample_Title_508,Director_1445
+s1446,TV Show,Sample_Title_424,Director_1446
+s1447,TV Show,Sample_Title_1634,Director_1447
+s1448,TV Show,Sample_Title_1381,Director_1448
+s1449,TV Show,Sample_Title_2786,Director_1449
+s1450,TV Show,Sample_Title_2300,Director_1450
+s1451,TV Show,Sample_Title_2555,Director_1451
+s1452,TV Show,Sample_Title_803,Director_1452
+s1453,TV Show,Sample_Title_587,Director_1453
+s1454,TV Show,Sample_Title_893,Director_1454
+s1455,TV Show,Sample_Title_2279,Director_1455
+s1456,TV Show,Sample_Title_487,Director_1456
+s1457,Movie,Sample_Title_1107,Director_1457
+s1458,Movie,Sample_Title_1845,Director_1458
+s1459,Movie,Sample_Title_1866,Director_1459
+s1460,TV Show,Sample_Title_2648,Director_1460
+s1461,TV Show,Sample_Title_2631,Director_1461
+s1462,Movie,Sample_Title_2720,Director_1462
+s1463,TV Show,Sample_Title_2312,Director_1463
+s1464,Movie,Sample_Title_2205,Director_1464
+s1465,TV Show,Sample_Title_433,Director_1465
+s1466,Movie,Sample_Title_1368,Director_1466
+s1467,Movie,Sample_Title_1039,Director_1467
+s1468,TV Show,Sample_Title_2137,Director_1468
+s1469,Movie,Sample_Title_2680,Director_1469
+s1470,Movie,Sample_Title_2143,Director_1470
+s1471,TV Show,Sample_Title_1826,Director_1471
+s1472,TV Show,Sample_Title_2386,Director_1472
+s1473,TV Show,Sample_Title_2084,Director_1473
+s1474,TV Show,Sample_Title_1567,Director_1474
+s1475,TV Show,Sample_Title_2744,Director_1475
+s1476,Movie,Sample_Title_2230,Director_1476
+s1477,Movie,Sample_Title_897,Director_1477
+s1478,TV Show,Sample_Title_1910,Director_1478
+s1479,Movie,Sample_Title_2017,Director_1479
+s1480,TV Show,Sample_Title_1402,Director_1480
+s1481,TV Show,Sample_Title_2881,Director_1481
+s1482,Movie,Sample_Title_1067,Director_1482
+s1483,Movie,Sample_Title_2123,Director_1483
+s1484,TV Show,Sample_Title_2007,Director_1484
+s1485,TV Show,Sample_Title_644,Director_1485
+s1486,Movie,Sample_Title_2870,Director_1486
+s1487,TV Show,Sample_Title_636,Director_1487
+s1488,TV Show,Sample_Title_2364,Director_1488
+s1489,TV Show,Sample_Title_361,Director_1489
+s1490,Movie,Sample_Title_11,Director_1490
+s1491,Movie,Sample_Title_2363,Director_1491
+s1492,Movie,Sample_Title_2988,Director_1492
+s1493,Movie,Sample_Title_2352,Director_1493
+s1494,TV Show,Sample_Title_29,Director_1494
+s1495,Movie,Sample_Title_1709,Director_1495
+s1496,TV Show,Sample_Title_2891,Director_1496
+s1497,Movie,Sample_Title_1826,Director_1497
+s1498,TV Show,Sample_Title_2526,Director_1498
+s1499,Movie,Sample_Title_428,Director_1499
+s1500,Movie,Sample_Title_1304,Director_1500
+s1501,TV Show,Sample_Title_1404,Director_1501
+s1502,TV Show,Sample_Title_1101,Director_1502
+s1503,Movie,Sample_Title_1350,Director_1503
+s1504,TV Show,Sample_Title_2122,Director_1504
+s1505,Movie,Sample_Title_840,Director_1505
+s1506,Movie,Sample_Title_129,Director_1506
+s1507,Movie,Sample_Title_2448,Director_1507
+s1508,Movie,Sample_Title_63,Director_1508
+s1509,Movie,Sample_Title_799,Director_1509
+s1510,Movie,Sample_Title_1954,Director_1510
+s1511,Movie,Sample_Title_2373,Director_1511
+s1512,TV Show,Sample_Title_2890,Director_1512
+s1513,TV Show,Sample_Title_1761,Director_1513
+s1514,TV Show,Sample_Title_1514,Director_1514
+s1515,TV Show,Sample_Title_2638,Director_1515
+s1516,Movie,Sample_Title_931,Director_1516
+s1517,TV Show,Sample_Title_1667,Director_1517
+s1518,Movie,Sample_Title_2630,Director_1518
+s1519,TV Show,Sample_Title_1121,Director_1519
+s1520,TV Show,Sample_Title_1119,Director_1520
+s1521,TV Show,Sample_Title_2974,Director_1521
+s1522,TV Show,Sample_Title_2122,Director_1522
+s1523,TV Show,Sample_Title_2117,Director_1523
+s1524,TV Show,Sample_Title_1575,Director_1524
+s1525,Movie,Sample_Title_81,Director_1525
+s1526,TV Show,Sample_Title_2529,Director_1526
+s1527,Movie,Sample_Title_1055,Director_1527
+s1528,TV Show,Sample_Title_102,Director_1528
+s1529,Movie,Sample_Title_1605,Director_1529
+s1530,Movie,Sample_Title_2527,Director_1530
+s1531,Movie,Sample_Title_1636,Director_1531
+s1532,Movie,Sample_Title_1784,Director_1532
+s1533,TV Show,Sample_Title_1095,Director_1533
+s1534,Movie,Sample_Title_2026,Director_1534
+s1535,Movie,Sample_Title_518,Director_1535
+s1536,TV Show,Sample_Title_1920,Director_1536
+s1537,Movie,Sample_Title_895,Director_1537
+s1538,Movie,Sample_Title_2679,Director_1538
+s1539,TV Show,Sample_Title_706,Director_1539
+s1540,Movie,Sample_Title_686,Director_1540
+s1541,TV Show,Sample_Title_275,Director_1541
+s1542,Movie,Sample_Title_2174,Director_1542
+s1543,TV Show,Sample_Title_2263,Director_1543
+s1544,Movie,Sample_Title_753,Director_1544
+s1545,Movie,Sample_Title_2482,Director_1545
+s1546,TV Show,Sample_Title_1543,Director_1546
+s1547,Movie,Sample_Title_999,Director_1547
+s1548,TV Show,Sample_Title_2476,Director_1548
+s1549,Movie,Sample_Title_1096,Director_1549
+s1550,Movie,Sample_Title_1268,Director_1550
+s1551,TV Show,Sample_Title_69,Director_1551
+s1552,Movie,Sample_Title_520,Director_1552
+s1553,TV Show,Sample_Title_1561,Director_1553
+s1554,TV Show,Sample_Title_819,Director_1554
+s1555,TV Show,Sample_Title_2229,Director_1555
+s1556,Movie,Sample_Title_1959,Director_1556
+s1557,Movie,Sample_Title_154,Director_1557
+s1558,TV Show,Sample_Title_822,Director_1558
+s1559,TV Show,Sample_Title_411,Director_1559
+s1560,Movie,Sample_Title_787,Director_1560
+s1561,TV Show,Sample_Title_974,Director_1561
+s1562,TV Show,Sample_Title_2392,Director_1562
+s1563,Movie,Sample_Title_2843,Director_1563
+s1564,TV Show,Sample_Title_610,Director_1564
+s1565,Movie,Sample_Title_765,Director_1565
+s1566,Movie,Sample_Title_1469,Director_1566
+s1567,TV Show,Sample_Title_2192,Director_1567
+s1568,Movie,Sample_Title_1482,Director_1568
+s1569,Movie,Sample_Title_949,Director_1569
+s1570,TV Show,Sample_Title_2109,Director_1570
+s1571,Movie,Sample_Title_2300,Director_1571
+s1572,Movie,Sample_Title_2071,Director_1572
+s1573,TV Show,Sample_Title_2991,Director_1573
+s1574,TV Show,Sample_Title_2105,Director_1574
+s1575,TV Show,Sample_Title_519,Director_1575
+s1576,Movie,Sample_Title_63,Director_1576
+s1577,TV Show,Sample_Title_1025,Director_1577
+s1578,Movie,Sample_Title_1275,Director_1578
+s1579,TV Show,Sample_Title_1857,Director_1579
+s1580,Movie,Sample_Title_2572,Director_1580
+s1581,TV Show,Sample_Title_562,Director_1581
+s1582,TV Show,Sample_Title_327,Director_1582
+s1583,Movie,Sample_Title_1375,Director_1583
+s1584,Movie,Sample_Title_1562,Director_1584
+s1585,Movie,Sample_Title_2342,Director_1585
+s1586,Movie,Sample_Title_1920,Director_1586
+s1587,Movie,Sample_Title_150,Director_1587
+s1588,TV Show,Sample_Title_2838,Director_1588
+s1589,TV Show,Sample_Title_1464,Director_1589
+s1590,TV Show,Sample_Title_1865,Director_1590
+s1591,Movie,Sample_Title_674,Director_1591
+s1592,TV Show,Sample_Title_1571,Director_1592
+s1593,TV Show,Sample_Title_1501,Director_1593
+s1594,Movie,Sample_Title_2759,Director_1594
+s1595,TV Show,Sample_Title_670,Director_1595
+s1596,TV Show,Sample_Title_1275,Director_1596
+s1597,TV Show,Sample_Title_2175,Director_1597
+s1598,Movie,Sample_Title_2665,Director_1598
+s1599,TV Show,Sample_Title_824,Director_1599
+s1600,TV Show,Sample_Title_1925,Director_1600
+s1601,TV Show,Sample_Title_2844,Director_1601
+s1602,TV Show,Sample_Title_985,Director_1602
+s1603,Movie,Sample_Title_1232,Director_1603
+s1604,Movie,Sample_Title_1365,Director_1604
+s1605,TV Show,Sample_Title_1013,Director_1605
+s1606,Movie,Sample_Title_569,Director_1606
+s1607,Movie,Sample_Title_2838,Director_1607
+s1608,TV Show,Sample_Title_758,Director_1608
+s1609,TV Show,Sample_Title_697,Director_1609
+s1610,Movie,Sample_Title_2961,Director_1610
+s1611,TV Show,Sample_Title_165,Director_1611
+s1612,Movie,Sample_Title_2373,Director_1612
+s1613,TV Show,Sample_Title_2135,Director_1613
+s1614,Movie,Sample_Title_388,Director_1614
+s1615,TV Show,Sample_Title_1609,Director_1615
+s1616,TV Show,Sample_Title_752,Director_1616
+s1617,Movie,Sample_Title_1306,Director_1617
+s1618,TV Show,Sample_Title_341,Director_1618
+s1619,Movie,Sample_Title_1261,Director_1619
+s1620,TV Show,Sample_Title_1427,Director_1620
+s1621,TV Show,Sample_Title_2530,Director_1621
+s1622,TV Show,Sample_Title_2714,Director_1622
+s1623,Movie,Sample_Title_752,Director_1623
+s1624,TV Show,Sample_Title_249,Director_1624
+s1625,TV Show,Sample_Title_1417,Director_1625
+s1626,Movie,Sample_Title_2040,Director_1626
+s1627,TV Show,Sample_Title_1791,Director_1627
+s1628,TV Show,Sample_Title_231,Director_1628
+s1629,Movie,Sample_Title_123,Director_1629
+s1630,Movie,Sample_Title_904,Director_1630
+s1631,Movie,Sample_Title_697,Director_1631
+s1632,TV Show,Sample_Title_783,Director_1632
+s1633,TV Show,Sample_Title_1189,Director_1633
+s1634,Movie,Sample_Title_1179,Director_1634
+s1635,Movie,Sample_Title_2925,Director_1635
+s1636,Movie,Sample_Title_2865,Director_1636
+s1637,TV Show,Sample_Title_347,Director_1637
+s1638,TV Show,Sample_Title_1954,Director_1638
+s1639,Movie,Sample_Title_491,Director_1639
+s1640,Movie,Sample_Title_2413,Director_1640
+s1641,TV Show,Sample_Title_934,Director_1641
+s1642,TV Show,Sample_Title_2825,Director_1642
+s1643,Movie,Sample_Title_1192,Director_1643
+s1644,TV Show,Sample_Title_2586,Director_1644
+s1645,TV Show,Sample_Title_569,Director_1645
+s1646,TV Show,Sample_Title_2705,Director_1646
+s1647,TV Show,Sample_Title_2331,Director_1647
+s1648,Movie,Sample_Title_1860,Director_1648
+s1649,Movie,Sample_Title_1,Director_1649
+s1650,TV Show,Sample_Title_38,Director_1650
+s1651,Movie,Sample_Title_1352,Director_1651
+s1652,TV Show,Sample_Title_3000,Director_1652
+s1653,TV Show,Sample_Title_1841,Director_1653
+s1654,Movie,Sample_Title_2769,Director_1654
+s1655,TV Show,Sample_Title_145,Director_1655
+s1656,Movie,Sample_Title_172,Director_1656
+s1657,Movie,Sample_Title_1734,Director_1657
+s1658,Movie,Sample_Title_2822,Director_1658
+s1659,Movie,Sample_Title_2150,Director_1659
+s1660,TV Show,Sample_Title_1349,Director_1660
+s1661,TV Show,Sample_Title_2380,Director_1661
+s1662,Movie,Sample_Title_503,Director_1662
+s1663,TV Show,Sample_Title_1169,Director_1663
+s1664,TV Show,Sample_Title_2222,Director_1664
+s1665,TV Show,Sample_Title_1032,Director_1665
+s1666,TV Show,Sample_Title_135,Director_1666
+s1667,Movie,Sample_Title_455,Director_1667
+s1668,TV Show,Sample_Title_1048,Director_1668
+s1669,TV Show,Sample_Title_1328,Director_1669
+s1670,Movie,Sample_Title_190,Director_1670
+s1671,Movie,Sample_Title_1370,Director_1671
+s1672,TV Show,Sample_Title_2567,Director_1672
+s1673,Movie,Sample_Title_553,Director_1673
+s1674,TV Show,Sample_Title_607,Director_1674
+s1675,TV Show,Sample_Title_3,Director_1675
+s1676,Movie,Sample_Title_805,Director_1676
+s1677,Movie,Sample_Title_1364,Director_1677
+s1678,TV Show,Sample_Title_2163,Director_1678
+s1679,Movie,Sample_Title_1401,Director_1679
+s1680,TV Show,Sample_Title_771,Director_1680
+s1681,Movie,Sample_Title_1791,Director_1681
+s1682,Movie,Sample_Title_140,Director_1682
+s1683,Movie,Sample_Title_2116,Director_1683
+s1684,Movie,Sample_Title_2945,Director_1684
+s1685,TV Show,Sample_Title_2835,Director_1685
+s1686,TV Show,Sample_Title_484,Director_1686
+s1687,TV Show,Sample_Title_2605,Director_1687
+s1688,Movie,Sample_Title_2356,Director_1688
+s1689,Movie,Sample_Title_494,Director_1689
+s1690,Movie,Sample_Title_1253,Director_1690
+s1691,Movie,Sample_Title_2415,Director_1691
+s1692,Movie,Sample_Title_862,Director_1692
+s1693,Movie,Sample_Title_677,Director_1693
+s1694,Movie,Sample_Title_2078,Director_1694
+s1695,Movie,Sample_Title_2200,Director_1695
+s1696,TV Show,Sample_Title_1646,Director_1696
+s1697,Movie,Sample_Title_1060,Director_1697
+s1698,Movie,Sample_Title_2788,Director_1698
+s1699,Movie,Sample_Title_1641,Director_1699
+s1700,Movie,Sample_Title_308,Director_1700
+s1701,Movie,Sample_Title_332,Director_1701
+s1702,Movie,Sample_Title_1128,Director_1702
+s1703,TV Show,Sample_Title_66,Director_1703
+s1704,Movie,Sample_Title_2833,Director_1704
+s1705,TV Show,Sample_Title_1852,Director_1705
+s1706,Movie,Sample_Title_2153,Director_1706
+s1707,Movie,Sample_Title_2134,Director_1707
+s1708,TV Show,Sample_Title_2360,Director_1708
+s1709,Movie,Sample_Title_1371,Director_1709
+s1710,TV Show,Sample_Title_1715,Director_1710
+s1711,TV Show,Sample_Title_1795,Director_1711
+s1712,TV Show,Sample_Title_1489,Director_1712
+s1713,TV Show,Sample_Title_1208,Director_1713
+s1714,Movie,Sample_Title_512,Director_1714
+s1715,TV Show,Sample_Title_645,Director_1715
+s1716,TV Show,Sample_Title_82,Director_1716
+s1717,TV Show,Sample_Title_2562,Director_1717
+s1718,TV Show,Sample_Title_1518,Director_1718
+s1719,TV Show,Sample_Title_1322,Director_1719
+s1720,Movie,Sample_Title_338,Director_1720
+s1721,Movie,Sample_Title_2915,Director_1721
+s1722,TV Show,Sample_Title_1299,Director_1722
+s1723,TV Show,Sample_Title_2649,Director_1723
+s1724,TV Show,Sample_Title_2977,Director_1724
+s1725,TV Show,Sample_Title_2256,Director_1725
+s1726,TV Show,Sample_Title_1272,Director_1726
+s1727,Movie,Sample_Title_2666,Director_1727
+s1728,TV Show,Sample_Title_1844,Director_1728
+s1729,Movie,Sample_Title_2359,Director_1729
+s1730,TV Show,Sample_Title_2938,Director_1730
+s1731,TV Show,Sample_Title_2908,Director_1731
+s1732,TV Show,Sample_Title_2745,Director_1732
+s1733,TV Show,Sample_Title_2357,Director_1733
+s1734,TV Show,Sample_Title_2781,Director_1734
+s1735,Movie,Sample_Title_1989,Director_1735
+s1736,TV Show,Sample_Title_2908,Director_1736
+s1737,TV Show,Sample_Title_1703,Director_1737
+s1738,TV Show,Sample_Title_2349,Director_1738
+s1739,Movie,Sample_Title_963,Director_1739
+s1740,Movie,Sample_Title_308,Director_1740
+s1741,TV Show,Sample_Title_987,Director_1741
+s1742,TV Show,Sample_Title_1233,Director_1742
+s1743,TV Show,Sample_Title_2281,Director_1743
+s1744,Movie,Sample_Title_2404,Director_1744
+s1745,Movie,Sample_Title_1268,Director_1745
+s1746,Movie,Sample_Title_1843,Director_1746
+s1747,TV Show,Sample_Title_814,Director_1747
+s1748,TV Show,Sample_Title_2090,Director_1748
+s1749,Movie,Sample_Title_1085,Director_1749
+s1750,Movie,Sample_Title_1399,Director_1750
+s1751,TV Show,Sample_Title_2688,Director_1751
+s1752,TV Show,Sample_Title_2294,Director_1752
+s1753,TV Show,Sample_Title_2142,Director_1753
+s1754,Movie,Sample_Title_806,Director_1754
+s1755,TV Show,Sample_Title_1828,Director_1755
+s1756,Movie,Sample_Title_2366,Director_1756
+s1757,Movie,Sample_Title_1943,Director_1757
+s1758,TV Show,Sample_Title_2337,Director_1758
+s1759,Movie,Sample_Title_5,Director_1759
+s1760,TV Show,Sample_Title_1687,Director_1760
+s1761,TV Show,Sample_Title_234,Director_1761
+s1762,Movie,Sample_Title_306,Director_1762
+s1763,Movie,Sample_Title_1277,Director_1763
+s1764,TV Show,Sample_Title_1794,Director_1764
+s1765,TV Show,Sample_Title_681,Director_1765
+s1766,TV Show,Sample_Title_195,Director_1766
+s1767,Movie,Sample_Title_1256,Director_1767
+s1768,TV Show,Sample_Title_2847,Director_1768
+s1769,Movie,Sample_Title_2097,Director_1769
+s1770,Movie,Sample_Title_870,Director_1770
+s1771,TV Show,Sample_Title_1239,Director_1771
+s1772,TV Show,Sample_Title_1080,Director_1772
+s1773,TV Show,Sample_Title_2838,Director_1773
+s1774,Movie,Sample_Title_992,Director_1774
+s1775,TV Show,Sample_Title_1562,Director_1775
+s1776,Movie,Sample_Title_1794,Director_1776
+s1777,Movie,Sample_Title_2227,Director_1777
+s1778,TV Show,Sample_Title_2962,Director_1778
+s1779,Movie,Sample_Title_1135,Director_1779
+s1780,Movie,Sample_Title_1161,Director_1780
+s1781,TV Show,Sample_Title_1964,Director_1781
+s1782,Movie,Sample_Title_2274,Director_1782
+s1783,TV Show,Sample_Title_2991,Director_1783
+s1784,Movie,Sample_Title_569,Director_1784
+s1785,TV Show,Sample_Title_2481,Director_1785
+s1786,TV Show,Sample_Title_252,Director_1786
+s1787,Movie,Sample_Title_2864,Director_1787
+s1788,Movie,Sample_Title_1724,Director_1788
+s1789,TV Show,Sample_Title_1082,Director_1789
+s1790,TV Show,Sample_Title_254,Director_1790
+s1791,Movie,Sample_Title_2759,Director_1791
+s1792,Movie,Sample_Title_146,Director_1792
+s1793,TV Show,Sample_Title_1399,Director_1793
+s1794,Movie,Sample_Title_219,Director_1794
+s1795,TV Show,Sample_Title_1609,Director_1795
+s1796,TV Show,Sample_Title_138,Director_1796
+s1797,TV Show,Sample_Title_2622,Director_1797
+s1798,TV Show,Sample_Title_2554,Director_1798
+s1799,Movie,Sample_Title_2270,Director_1799
+s1800,TV Show,Sample_Title_2297,Director_1800
+s1801,Movie,Sample_Title_476,Director_1801
+s1802,Movie,Sample_Title_1661,Director_1802
+s1803,Movie,Sample_Title_2518,Director_1803
+s1804,Movie,Sample_Title_306,Director_1804
+s1805,TV Show,Sample_Title_35,Director_1805
+s1806,TV Show,Sample_Title_2326,Director_1806
+s1807,Movie,Sample_Title_532,Director_1807
+s1808,Movie,Sample_Title_956,Director_1808
+s1809,Movie,Sample_Title_107,Director_1809
+s1810,Movie,Sample_Title_848,Director_1810
+s1811,TV Show,Sample_Title_1832,Director_1811
+s1812,Movie,Sample_Title_2497,Director_1812
+s1813,TV Show,Sample_Title_379,Director_1813
+s1814,Movie,Sample_Title_1533,Director_1814
+s1815,Movie,Sample_Title_401,Director_1815
+s1816,TV Show,Sample_Title_2959,Director_1816
+s1817,Movie,Sample_Title_177,Director_1817
+s1818,TV Show,Sample_Title_1119,Director_1818
+s1819,Movie,Sample_Title_1561,Director_1819
+s1820,TV Show,Sample_Title_1804,Director_1820
+s1821,TV Show,Sample_Title_188,Director_1821
+s1822,Movie,Sample_Title_2950,Director_1822
+s1823,Movie,Sample_Title_367,Director_1823
+s1824,Movie,Sample_Title_270,Director_1824
+s1825,Movie,Sample_Title_885,Director_1825
+s1826,TV Show,Sample_Title_1234,Director_1826
+s1827,TV Show,Sample_Title_425,Director_1827
+s1828,TV Show,Sample_Title_1184,Director_1828
+s1829,TV Show,Sample_Title_1054,Director_1829
+s1830,TV Show,Sample_Title_55,Director_1830
+s1831,Movie,Sample_Title_1538,Director_1831
+s1832,Movie,Sample_Title_648,Director_1832
+s1833,Movie,Sample_Title_1942,Director_1833
+s1834,Movie,Sample_Title_2544,Director_1834
+s1835,Movie,Sample_Title_1731,Director_1835
+s1836,Movie,Sample_Title_1880,Director_1836
+s1837,Movie,Sample_Title_1298,Director_1837
+s1838,Movie,Sample_Title_2892,Director_1838
+s1839,TV Show,Sample_Title_1053,Director_1839
+s1840,TV Show,Sample_Title_10,Director_1840
+s1841,TV Show,Sample_Title_2703,Director_1841
+s1842,Movie,Sample_Title_2783,Director_1842
+s1843,TV Show,Sample_Title_1317,Director_1843
+s1844,Movie,Sample_Title_1531,Director_1844
+s1845,Movie,Sample_Title_2860,Director_1845
+s1846,Movie,Sample_Title_1439,Director_1846
+s1847,TV Show,Sample_Title_1772,Director_1847
+s1848,Movie,Sample_Title_1265,Director_1848
+s1849,TV Show,Sample_Title_451,Director_1849
+s1850,TV Show,Sample_Title_2956,Director_1850
+s1851,TV Show,Sample_Title_1792,Director_1851
+s1852,TV Show,Sample_Title_1093,Director_1852
+s1853,TV Show,Sample_Title_913,Director_1853
+s1854,Movie,Sample_Title_1740,Director_1854
+s1855,TV Show,Sample_Title_1013,Director_1855
+s1856,TV Show,Sample_Title_2214,Director_1856
+s1857,TV Show,Sample_Title_212,Director_1857
+s1858,TV Show,Sample_Title_738,Director_1858
+s1859,TV Show,Sample_Title_1253,Director_1859
+s1860,Movie,Sample_Title_2365,Director_1860
+s1861,TV Show,Sample_Title_1475,Director_1861
+s1862,TV Show,Sample_Title_2498,Director_1862
+s1863,Movie,Sample_Title_1473,Director_1863
+s1864,Movie,Sample_Title_1951,Director_1864
+s1865,TV Show,Sample_Title_2757,Director_1865
+s1866,TV Show,Sample_Title_2475,Director_1866
+s1867,Movie,Sample_Title_1854,Director_1867
+s1868,Movie,Sample_Title_1467,Director_1868
+s1869,Movie,Sample_Title_364,Director_1869
+s1870,TV Show,Sample_Title_2862,Director_1870
+s1871,TV Show,Sample_Title_219,Director_1871
+s1872,Movie,Sample_Title_130,Director_1872
+s1873,TV Show,Sample_Title_950,Director_1873
+s1874,Movie,Sample_Title_2080,Director_1874
+s1875,TV Show,Sample_Title_2265,Director_1875
+s1876,Movie,Sample_Title_1776,Director_1876
+s1877,Movie,Sample_Title_684,Director_1877
+s1878,Movie,Sample_Title_2380,Director_1878
+s1879,TV Show,Sample_Title_1450,Director_1879
+s1880,Movie,Sample_Title_1355,Director_1880
+s1881,Movie,Sample_Title_1808,Director_1881
+s1882,Movie,Sample_Title_683,Director_1882
+s1883,Movie,Sample_Title_2932,Director_1883
+s1884,Movie,Sample_Title_2567,Director_1884
+s1885,TV Show,Sample_Title_2173,Director_1885
+s1886,Movie,Sample_Title_2864,Director_1886
+s1887,TV Show,Sample_Title_597,Director_1887
+s1888,Movie,Sample_Title_120,Director_1888
+s1889,Movie,Sample_Title_2836,Director_1889
+s1890,Movie,Sample_Title_2787,Director_1890
+s1891,TV Show,Sample_Title_1742,Director_1891
+s1892,Movie,Sample_Title_1428,Director_1892
+s1893,TV Show,Sample_Title_2734,Director_1893
+s1894,TV Show,Sample_Title_2286,Director_1894
+s1895,Movie,Sample_Title_2800,Director_1895
+s1896,TV Show,Sample_Title_1855,Director_1896
+s1897,TV Show,Sample_Title_1858,Director_1897
+s1898,TV Show,Sample_Title_401,Director_1898
+s1899,TV Show,Sample_Title_2218,Director_1899
+s1900,Movie,Sample_Title_1317,Director_1900
+s1901,Movie,Sample_Title_593,Director_1901
+s1902,Movie,Sample_Title_1693,Director_1902
+s1903,TV Show,Sample_Title_1319,Director_1903
+s1904,TV Show,Sample_Title_2267,Director_1904
+s1905,Movie,Sample_Title_745,Director_1905
+s1906,Movie,Sample_Title_452,Director_1906
+s1907,TV Show,Sample_Title_277,Director_1907
+s1908,Movie,Sample_Title_1623,Director_1908
+s1909,Movie,Sample_Title_2598,Director_1909
+s1910,TV Show,Sample_Title_2481,Director_1910
+s1911,Movie,Sample_Title_2480,Director_1911
+s1912,Movie,Sample_Title_1415,Director_1912
+s1913,Movie,Sample_Title_2784,Director_1913
+s1914,TV Show,Sample_Title_1727,Director_1914
+s1915,TV Show,Sample_Title_1844,Director_1915
+s1916,TV Show,Sample_Title_2736,Director_1916
+s1917,TV Show,Sample_Title_1037,Director_1917
+s1918,Movie,Sample_Title_2855,Director_1918
+s1919,TV Show,Sample_Title_312,Director_1919
+s1920,TV Show,Sample_Title_781,Director_1920
+s1921,TV Show,Sample_Title_1153,Director_1921
+s1922,TV Show,Sample_Title_661,Director_1922
+s1923,Movie,Sample_Title_625,Director_1923
+s1924,TV Show,Sample_Title_2640,Director_1924
+s1925,TV Show,Sample_Title_2984,Director_1925
+s1926,TV Show,Sample_Title_2992,Director_1926
+s1927,TV Show,Sample_Title_331,Director_1927
+s1928,TV Show,Sample_Title_872,Director_1928
+s1929,TV Show,Sample_Title_510,Director_1929
+s1930,Movie,Sample_Title_2632,Director_1930
+s1931,TV Show,Sample_Title_1564,Director_1931
+s1932,Movie,Sample_Title_1941,Director_1932
+s1933,Movie,Sample_Title_1373,Director_1933
+s1934,TV Show,Sample_Title_831,Director_1934
+s1935,TV Show,Sample_Title_1201,Director_1935
+s1936,TV Show,Sample_Title_2574,Director_1936
+s1937,Movie,Sample_Title_1266,Director_1937
+s1938,TV Show,Sample_Title_319,Director_1938
+s1939,TV Show,Sample_Title_446,Director_1939
+s1940,Movie,Sample_Title_525,Director_1940
+s1941,Movie,Sample_Title_1261,Director_1941
+s1942,Movie,Sample_Title_1202,Director_1942
+s1943,Movie,Sample_Title_2697,Director_1943
+s1944,Movie,Sample_Title_1128,Director_1944
+s1945,TV Show,Sample_Title_2927,Director_1945
+s1946,TV Show,Sample_Title_1527,Director_1946
+s1947,TV Show,Sample_Title_2547,Director_1947
+s1948,TV Show,Sample_Title_1504,Director_1948
+s1949,TV Show,Sample_Title_1175,Director_1949
+s1950,TV Show,Sample_Title_1594,Director_1950
+s1951,TV Show,Sample_Title_912,Director_1951
+s1952,TV Show,Sample_Title_2176,Director_1952
+s1953,TV Show,Sample_Title_2586,Director_1953
+s1954,TV Show,Sample_Title_1340,Director_1954
+s1955,Movie,Sample_Title_50,Director_1955
+s1956,TV Show,Sample_Title_1306,Director_1956
+s1957,Movie,Sample_Title_119,Director_1957
+s1958,Movie,Sample_Title_1799,Director_1958
+s1959,TV Show,Sample_Title_2332,Director_1959
+s1960,Movie,Sample_Title_1546,Director_1960
+s1961,Movie,Sample_Title_1643,Director_1961
+s1962,TV Show,Sample_Title_2535,Director_1962
+s1963,TV Show,Sample_Title_1101,Director_1963
+s1964,TV Show,Sample_Title_2994,Director_1964
+s1965,Movie,Sample_Title_934,Director_1965
+s1966,TV Show,Sample_Title_1939,Director_1966
+s1967,TV Show,Sample_Title_558,Director_1967
+s1968,Movie,Sample_Title_299,Director_1968
+s1969,Movie,Sample_Title_1359,Director_1969
+s1970,Movie,Sample_Title_583,Director_1970
+s1971,Movie,Sample_Title_1322,Director_1971
+s1972,Movie,Sample_Title_2880,Director_1972
+s1973,Movie,Sample_Title_2107,Director_1973
+s1974,Movie,Sample_Title_2173,Director_1974
+s1975,Movie,Sample_Title_1790,Director_1975
+s1976,Movie,Sample_Title_959,Director_1976
+s1977,TV Show,Sample_Title_1060,Director_1977
+s1978,TV Show,Sample_Title_2387,Director_1978
+s1979,Movie,Sample_Title_2950,Director_1979
+s1980,Movie,Sample_Title_1108,Director_1980
+s1981,TV Show,Sample_Title_873,Director_1981
+s1982,TV Show,Sample_Title_1686,Director_1982
+s1983,Movie,Sample_Title_115,Director_1983
+s1984,TV Show,Sample_Title_513,Director_1984
+s1985,TV Show,Sample_Title_250,Director_1985
+s1986,Movie,Sample_Title_1607,Director_1986
+s1987,Movie,Sample_Title_879,Director_1987
+s1988,Movie,Sample_Title_86,Director_1988
+s1989,TV Show,Sample_Title_255,Director_1989
+s1990,TV Show,Sample_Title_34,Director_1990
+s1991,TV Show,Sample_Title_2401,Director_1991
+s1992,TV Show,Sample_Title_878,Director_1992
+s1993,TV Show,Sample_Title_560,Director_1993
+s1994,TV Show,Sample_Title_1051,Director_1994
+s1995,TV Show,Sample_Title_1746,Director_1995
+s1996,TV Show,Sample_Title_1395,Director_1996
+s1997,TV Show,Sample_Title_1737,Director_1997
+s1998,TV Show,Sample_Title_2429,Director_1998
+s1999,Movie,Sample_Title_1584,Director_1999
+s2000,Movie,Sample_Title_1910,Director_2000
