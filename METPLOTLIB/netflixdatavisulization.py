@@ -13,7 +13,7 @@ data.dropna(subset=['show_id','type','title','director'])
 type_count=data['type'].value_counts()
 # visualize the data 
 plt.bar(type_count.index,type_count.values,color=['cyan','magenta'])
-plt.title('Number of Movies and Tv Shows on Netflix')
+plt.title('Number of Movies and Tv Shows On Netflix')
 plt.xlabel('Type')
 plt.ylabel('Count')
 plt.tight_layout()
