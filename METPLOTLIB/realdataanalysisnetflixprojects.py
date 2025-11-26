@@ -81,7 +81,34 @@ data['Genre'] = data['Genre'].str.split(', ')
 # Explode list values into separate rows and reset index properly
 data = data.explode('Genre').reset_index(drop=True)
 print(data.head())
-# ------------------------------------------
+# CASTIING COLUMN INTO CATEGORY
+data['Genre']=data['Genre'].astype('category')
+print(data['Genre'].astype)
+
+# how to see unique data in each columns 
+print(data.nunique())
+print(data.head())
+
+# 1 Question --what is the most frequent genre of movies released on netflix?
+#DATA VISUALIZATION 
+sns.set_style("whitegrid")
+sns.catplot(y='Genre',data=data,kind='count',order=data['Genre'].value_counts().index,color='#4287f5')
+plt.title("Gentre Column distribution")
+plt.savefig("genre_distribution.png", dpi=300, bbox_inches='tight')
+plt.show()
+
+# 2 questions --what is the highest votes in  vote avg column ?
+sns.catplot(y='Vote_Average',data=data,kind='count',order=data['Vote_Average'].value_counts().index,color='#4287f5')
+plt.title("Votes distribution")
+plt.savefig('Votes_distribution.png',dpi=300,bbox_inches='tight')
+plt.show()
+
+# 3 what movie got the highest popularity?whats its gener?
+# Ager ham kisse bhi column mai jo sbaje jayeda bar aaya hai uske accpring puri row print karte hai
+print(data[data['Popularity']==data['Popularity'].max()])
+
+
+# -----------------------------------------
 # IMPORTANT NOTES
 # ------------------------------------------
 # - Minimum Vote_Average automatically gets the label 'not_popular'
